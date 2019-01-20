@@ -1,0 +1,41 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+  sublinks:
+    - title: Location
+      url: /about/location
+    - title: Committee
+      url: /about/committee
+    - title: History
+      url: /about/history
+    - title: Registration
+      url: /about/registration
+    - title: Insurance
+      url: /about/insurance
+    - title: Club Colours
+      url: /about/colours
+
+- title: News and Media
+  url: /blog
+
+- title: Community
+  url: /community
+
+- title: Sponsors
+  url: /sponsors
+
+- title: Teams
+  url: /teams/
+  sublinks:
+    - title: Senior Mens
+      url: /teams/mens
+    - title: Senior Womens
+      url: /teams/womens
+    - title: Juniors
+      url: /teams/juniors
+    - title: Meet the Coaches
+      url: /teams/coaches
