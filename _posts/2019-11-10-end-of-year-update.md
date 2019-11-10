@@ -1,7 +1,5 @@
 ---
 published: true
----
----
 layout: posts
 title: Wrapping up 2019 and looking to 2020
 ---
