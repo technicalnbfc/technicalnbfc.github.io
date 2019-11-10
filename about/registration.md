@@ -1,12 +1,13 @@
 ---
 layout: defaults
 title: Registration
+published: true
 ---
 
 <div class="container">
   <div class="row top-buffer">
     <div class="col">
-      <h1 class="text-center">Registration Fees 2019</h1>
+      <h1 class="text-center">Registration Fees 2020</h1>
     </div>
   </div>
   <hr>
@@ -17,29 +18,30 @@ We offer the best value for money Registration fees in the Football Brisbane com
 
 We are also fortunate to have a core group of sponsors who assist us greatly with our bottom line and thus subsidise to some extent the cost of registration. Then there is our partnership with QUT FC/Sport. They provide a significant proportion of our total playing numbers and directly subsidise their members when it comes to the payment of registration fees, thus ensuring that for those people, their fees are reduced even further.  
 
-As we enter into our fifth year as a Football Brisbane club, we are committed to providing quality football services to our players at budget rates.  
+As we enter into our sixth year as a Football Brisbane club, we are committed to providing quality football services to our players at budget rates.  
 
 __Registration Fees__  
-* Senior Mens Capital League, Capital League 2, City Division, and Reserves - __Total Cost $500__  
-* Senior Womens Capital League, Capital League 2, City Division, and Reserves - __Total Cost $500__
+* Senior Mens and Womens Capital League and City Divisions - __Total Cost $530__  
+* $30 discount applies if full payment is made by the end of February
 * QUT Students will recieve a further subsidy of $50 off their fees  
+* A loyalty discount of $50 is available for players who have been with the club for five years or more  
 
 This covers:
 * All FFA, Football Queensland and Football Brisbane fees
 * Access to the FFA Insurance Scheme
 * Referee's fees for all games (pre-season, cups and fixtures)
 * Supply of playing strip and shorts (plain white socks not included but available for purchase from the club)
-* Club polo for you to keep
+* Club polo for you to keep (or club training shirt if you already have a club polo)
 * Access once a week to a qualified Physiotherapist to assess any injury and access to their clinic if follow-up treatment is required
 * Sports Trainer coverage on match day to assist with strapping, massage, injury management etc. (Capital League teams only)
 * A customary post game snack at home games
-* Access to training facilities and all associated equipment twice a week for the duration of the season
+* Access to training facilities and all associated equipment twice a week for the duration of the season (once a week for some City Division teams)
 * Access to high competent coaches and their assistants for the duration of the season
 
 
 __Payment of Fees__  
-North Brisbane FC recognises that for a number of our players, particularly university students, finding all the money up-front to pay fees can be quite a challenge. Consequently, anyone who is experiencing financial hardship, can apply to the Treasurer to enter into a payment plan.
-However, before any player will be allowed to play in a fixture match, they must have paid at least 50% of their fee and have a payment plan in place for the balance that is owed. 
+North Brisbane FC recognises that for a number of our players, particularly university students, finding all the money up-front to pay fees can be quite a challenge. Consequently, anyone who is experiencing financial hardship, can apply to the Treasurer to enter into a payment plan. However, before any player will be allowed to play in a fixture match, they must have paid at least 50% of their fee and have a payment plan in place for the balance that is owed.  
+Please note there is a $30 discount for full payment of fees by the end of February 2020.
   
 
 __How to Register__  
