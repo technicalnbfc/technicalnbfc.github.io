@@ -5,7 +5,8 @@ title: History
 <div class="container">
   <div class="row top-buffer">
     <div class="col">
-      <h1 class="text-center">History</h1>
+      <h1 class="text-center">{{ page.title }}</h1>
+      <h4 class="text-center">Updated for 2020</h4>
     </div>
   </div>
   <hr>
@@ -26,11 +27,14 @@ In 2015, the club, in association with the New Farm Punjabi community, fielded 2
 
 Now branded as North Brisbane FC and with a proper committee structure in place, the club has formed a partnership with QUT Football club and QUT Sport which facilitates the provision of a Football Brisbane pathway for QUT students.  
 
-These partnerships and penetration into the local community has resulted in recent on-field success. The senior men’s Capital League 4 team finished second in 2017 and so will play in Capital League 2 in the revamped competition for the 2018 season.  
+These partnerships and penetration into the local community has resulted in both a huge increase in the number of teams and its on-field success. 
+For 2020, we are expected to field 10 or 11 teams in senior competition, as well as run the Aldi Mini Roos Kick Off Program for boys and girls aged between 4 and 9 for the first time.  
 
-The senior women’s program has also gone from strength to strength. After fielding 2 teams in 2016 and being crowned City League div 4 premiers in 2016, 3 senior teams were fielded in 2017. The top women’s team played in City div 2 (a jump of 2 divs) and performed very creditably, finishing in fourth spot.  
+Off the field, we have also made huge strides. Thanks to grants from the Communities Sports Infrastructure (Federal government) and Get Going Playing and Spaces (Qld government), we are doing a massive field upgrade involving the erection of perimeter fencing and a total re-laying of our playing surface which will be ready for the start of the 2020 season.  
 
-For the 2018 season the club expects to field at least 8 teams in Football Brisbane competition. __The phoenix has risen...__
+We are also undertaking significant clubhouse modifications which largely involves the erection of 2 new dressing rooms and a disabled toilet. This is proudly funded by the Building Stronger Communities grant from Brisbane City Council.  
+
+ __The phoenix has risen...__
 </section>
     </div>
   </div>
