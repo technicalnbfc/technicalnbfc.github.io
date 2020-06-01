@@ -8,7 +8,7 @@ published: true
   <div class="row top-buffer">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2020</h4>
+      <h4 class="text-center">Updated 1 June 2020</h4>
     </div>
   </div>
   <hr>
@@ -61,11 +61,19 @@ Players can also choose to pay their fees directly to the club. You can do this 
 * _For players who are looking to pay via an instalment plan or who qualify for a QUT or loyalty discount, you need to click on “Offline Payment” to club._  
 
 __Refunds__  
-North Brisbane FC, like other Football Brisbane clubs, does not generally provide refunds to players unless they request de-registration prior to playing a fixture match. In these cases, a full amount of refund will be given, less a $50 administration and training fee.  
+North Brisbane FC, like other Football Brisbane clubs, does not generally provide refunds to players unless they request de-registration prior to playing a fixture match. In these cases, a refund of the club component of the fee will be given, less a $50 administration fee and a pre-season training/playing fee of $50 per month.
 
-Once a player has played a fixture match, no refunds will generally be made. That is because the Registration fee covers a range of “sunk” costs which the club still incurs even if a player ceases to play. The Treasurer may in exceptional circumstances decide to refund registration fees in whole or in part.  
+This same refund approach will be applied to all players this year due to the effects of COVID-19, irrespective of whether you have played a fixture or cup match (some Capital League players may be in this position).   
+
+The other component of a player's registration fee is the governing body fee. For the 2020 year, that amount is $198. The Refund Policy for this component of the fee can be found on the Football Queensland website:
+
+https://footballqueensland.com.au/wp-content/uploads/2020/03/FQ-Refund-Policy-2020.pdf
+
+While players may request a refund in exceptional circumstances, essentially the policy provides that once a player has participated in any form of pre-season training and/or games, they are not entitled to a refund of the governing body fees.  
 
 Where a player is allowed to pay in instalments, the full amount of the registration fee is owing once the player has played at least one fixture match. Where a player decides to cease playing before the full fee is paid, the balance is still owing and payment of the debt will be pursued if necessary (ultimately at the player’s cost) through QCAT.
+  
+For any refund enquiries please contact the [club Treasurer](../about/committee).
   
 
 __Volunteering and Player Expectations__  
