@@ -67,7 +67,7 @@ This same refund approach will be applied to all players this year due to the ef
 
 The other component of a player's registration fee is the governing body fee. For the 2020 year, that amount is $198. The Refund Policy for this component of the fee can be found on the Football Queensland website:
 
-https://footballqueensland.com.au/wp-content/uploads/2020/03/FQ-Refund-Policy-2020.pdf
+www.footballqueensland.com.au/wp-content/uploads/2020/03/FQ-Refund-Policy-2020.pdf
 
 While players may request a refund in exceptional circumstances, essentially the policy provides that once a player has participated in any form of pre-season training and/or games, they are not entitled to a refund of the governing body fees.  
 
