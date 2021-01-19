@@ -27,7 +27,7 @@ With any claim you need a doctor’s referral and they also need to complete an 
 
 __Completed forms should be sent to [treasurer@northbrisbanefc.com.au](treasurer@northbrisbanefc.com.au).__  
 
-Claim Forms can be accessed via the Claims Portal which can be found on the [Football Brisbane](www.footballbrisbane.com.au) website. Go to the menu, click on “Players” and then go to “Insurance”. If you follow the prompts you’ll be taken to the Claims portal. Any queries, please direct them to the club Treasurer. 
+Claim Forms can be accessed via the Claims Portal which can be found on the [Football Brisbane](www.footballbrisbane.com.au) website. Go to the menu, click on “Players” and then go to "Player registration - Insurance". There you'll see the Claims portal. Any queries, please direct them to the club Treasurer. 
 
 
 __4tfi Physiotherapy__  

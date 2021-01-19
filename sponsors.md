@@ -36,8 +36,8 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
 
   <div class="row">
     <div class="col-md-6">
-      <!-- <h3>QUT Sports</h3> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/qutsport_opt.png">
+      <!-- <h3>Carwardine &amp; Associates</h3> -->
+      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/carwardines_opt.png">
     </div>
     <div class="col-md-6">
       <!-- <h3>Rainbow Fertility</h3> -->
@@ -45,17 +45,6 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-md-6">
-      <!-- <h3>Carwardine &amp; Associates</h3> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/carwardines_opt.png">
-    </div>
-    <div class="col-md-6">
-      <!-- <h3>Luxury Paints</h3> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-80px" src="../images/luxurypaints_opt.png">
-    </div>
-  </div>
- 
   <div class="row">
     <div class="col">
       <h2 class="text-center">Supporting Sponsors</h2>
@@ -78,16 +67,13 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
   </div>
   <br><br><br>
   <div class="row">
-    <div class="col-md-4">
-
-    </div>
+    <div class="col-md-4">    </div>
     <div class="col-md-4">
       <!-- <h4>Navi Sanghera</h4>
       <h4>Harcourts Pinnacle</h4> -->
       <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/navi_opt.png">
     </div>
-    <div class="col-md-4">
-    </div>
+    <div class="col-md-4">    </div>
   </div>
   <br><br>
 </div>
