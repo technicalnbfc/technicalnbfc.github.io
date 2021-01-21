@@ -1,24 +1,26 @@
 ---
 layout: defaults
-title: Juniors
+title: Mini Roos
 ---
 
 <div class="container">
   <div class="row top-buffer">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2020</h4>
+      <h4 class="text-center">Updated for 2021</h4>
     </div>
   </div>
   <hr>
   <div class="row">
     <div class="col-md-8 offset-md-2 text-justify">
 <section id="Juniors" markdown="1">
-For the first time this year we will be running an Aldo Mini Roos Kick Off Program. It is suited to young boys and girls aged between 4-9 who are looking to have fun and learn about our great game.  
+In 2020, we ran the Mini Roos Kick off Program. While this program will be offered again this year, we are also looking to run a number of Mini Roos teams in Football Brisbane competition for the first time.  
 
-The Aldi Mini Roos Program for term 1 will be run every Monday from 4-5 pm at Prentice Park starting Monday 12 February and finishing Monday 30 March.  
+MIni Roos will run from Saturday 6 March at 9.00 am through to early September. Registration fees are $330 for kids aged 5-7 and $350 for 8s and 9s. These are great value fees for this age group.  
 
-Cost is $90 which includes a one-off FFA fee of $30. Interested parents can register their kids [at miniroos kickoff finder here](https://www.playfootball.com.au/miniroos-kickoff-finder) _(enter postcode 4030 and follow the prompts.)_
+To register your interest, please message us on our Facebook page North Brisbane FC or contact our Mini Roos Co-ordinator Greg Vitulano on 0437320107 or via email at treasurer@northbrisbanefc.com.au.  
+
+We will also continue with our Mini Roos Kick off Program which will start in term 2. More details about this to follow.   
 
 </section>
     </div>
