@@ -13,7 +13,7 @@ title: Mini Roos
   <hr>
   <div class="row">
     <div class="col-md-8 offset-md-2 text-justify">
-<section id="Juniors" markdown="1">
+<section id="Mini Roos" markdown="1">
 In 2020, we ran the Mini Roos Kick off Program. While this program will be offered again this year, we are also looking to run a number of Mini Roos teams in Football Brisbane competition for the first time.  
 
 MIni Roos will run from Saturday 6 March at 9.00 am through to early September. Registration fees are $330 for kids aged 5-7 and $350 for 8s and 9s. These are great value fees for this age group.  

@@ -35,17 +35,17 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
   </div>
 
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 justify-content-center my-4">
       <!-- <h3>Carwardine &amp; Associates</h3> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/carwardines_opt.png">
+      <img class="img-fluid img-fluid center-block logo-100px" src="../images/carwardines_opt.png">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 justify-content-center my-4">
       <!-- <h3>Rainbow Fertility</h3> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-80px" src="../images/rainbowfertility_opt.png">
+      <img class="img-fluid center-block logo-120px" src="../images/rainbowfertility_opt.png">
     </div>
   </div>
 
-  <div class="row">
+  <div class="row top-buffer">
     <div class="col">
       <h2 class="text-center">Supporting Sponsors</h2>
     </div>
@@ -54,26 +54,37 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
   <div class="row">
     <div class="col-md-4">
       <!-- <h4>Zone Fresh</h4> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/zonefresh_opt.png">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/zonefresh_opt.png">
     </div>
     <div class="col-md-4">
       <!-- <h4>Soccer World</h4> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/soccerworld_opt.png">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-60px" src="../images/soccerworld_opt.png">
     </div>
     <div class="col-md-4">
       <!-- <h4>4tfi Physiotherapy</h4> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/4tfi_opt.png">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-60px" src="../images/4tfi_opt.png">
     </div>
   </div>
-  <br><br><br>
-  <div class="row">
-    <div class="col-md-4">    </div>
+ 
+  <div class="row top-buffer">
     <div class="col-md-4">
-      <!-- <h4>Navi Sanghera</h4>
-      <h4>Harcourts Pinnacle</h4> -->
-      <img class="img-responsive center-block top-buffer bottom-buffer logo-60px" src="../images/navi_opt.png">
+        <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/12 Logo.png">
     </div>
-    <div class="col-md-4">    </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/AAP Logo.jpg">
+    </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/BUSYBODIES-LOGO2.resized.jpg">
+    </div>
   </div>
-  <br><br>
+
+  <div class="row top-buffer">
+    <div class="col-md-6">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/CanaleTravelService_logo.resized.jpg">
+    </div>
+    <div class="col-md-6">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-80px" src="../images/Energy Sales.png">
+    </div>
+  </div>
+
 </div>

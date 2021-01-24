@@ -33,8 +33,17 @@ $light-web-font-path: "https://fonts.googleapis.com/css?family=Open+Sans:300" !d
 }
 
 .logo-80px {
-    height: 80px;
+  max-height: 80px;
 }
+
+.logo-100px {
+  max-height: 100px;
+}
+
+.logo-120px {
+  max-height: 120px;
+}
+
 
 $font-size-base:   0.8125rem;
 $lead-font-size:   ($font-size-base * 2.25);
