@@ -79,12 +79,40 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
   </div>
 
   <div class="row top-buffer">
-    <div class="col-md-6">
-      <img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/CanaleTravelService_logo.resized.jpg">
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-80px" src="../images/CanaleTravelService_logo.resized.jpg">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
       <img class="img-fluid center-block top-buffer bottom-buffer logo-80px" src="../images/Energy Sales.png">
     </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-80px" src="../images/Red Door Architecture.png">
+    </div>
   </div>
+
+  <div class="row top-buffer">
+    <div class="col-md-4">
+        <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/remax albion.png">
+    </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/sponsor logo top gun.jpg">
+    </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/sponsor logo coffee testing.png">
+    </div>
+  </div>
+
+  <div class="row top-buffer">
+    <div class="col-md-4">
+        <!--img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/remax albion.png"-->
+    </div>
+    <div class="col-md-4">
+      <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/sponsor logo bjs.jpg">
+    </div>
+    <div class="col-md-4">
+      <!--img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/sponsor logo coffee testing.png"-->
+    </div>
+  </div>
+
 
 </div>
