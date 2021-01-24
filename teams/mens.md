@@ -21,7 +21,7 @@ This year we will field a firsts and reserves team in the Football Brisbane Capi
 
 Training is on every Tuesday and Thursday from 7 pm onwards at Prentice Park. __Training starts from 12 January 2021__. From the end of February, Thursday training sessions (@ 7pm) will be conducted at Valleys Hockey ground, Shaw Road, Kalinga.  
 
-Players are always welcome to come down and trial - send us a message via Facebook or contact our head coach Anj Sandhar on 0422 330 430 or via email at anjiaman11@gmail.com.  
+Players are always welcome to come down and trial - send us a message via Facebook or contact our head coach Anj Sandhar on [0422 330 430](tel:0422330430) or via email at <anjiaman11@gmail.com>.  
 
 __City League__
 
@@ -29,8 +29,10 @@ This year we are looking to again field 4 teams in the City League competition -
 
 Training/trials for all teams will commence on Wednesday 17 February from 7 pm onwards at Kedron AFL, Sixth Avenue Kedron and take place every Wednesday thereafter.  
 
-Any interested players - send us a message via Facebook or contact Chris Tully via email on cvtully11@outlook.com.
+Any interested players - send us a message via Facebook or contact Chris Tully via email on <cvtully11@outlook.com>.
 </section>
     </div>
   </div>
 </div>
+
+{% include form.html %}
