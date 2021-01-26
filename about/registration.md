@@ -91,3 +91,5 @@ Lastly, as a club our fundraising strategy has consisted of Bunnings BBQ days an
     </div>
   </div>
 </div>
+
+{% include form.html %}
