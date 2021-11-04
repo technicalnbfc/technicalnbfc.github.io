@@ -12,7 +12,7 @@ With 95 senior registered female players in 2021, NBFC are looking to create a J
 
 We are looking to recruit players aged between 13-15 in 2022 (born 2007-2009).
 
-Our summer program offers:
+Our program offers:
 - Quality coaching twice a week, with emphasis on skills and team development
 - Holistic learning environment-  look to develop young women, not just young footballers.
 - Excellent fees- $450-500- which covers everything (no additional game day fees) and you get a full kit to keep- shorts, shirt and playing strip.  
