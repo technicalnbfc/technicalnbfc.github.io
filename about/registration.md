@@ -33,7 +33,7 @@ __Registration Fees__
 
 * Junior Girls Divisional - __Total Cost $450__ *(includes club polo, shorts and socks)* 
 * Mini Roos Under 6/7 - __Total Cost $330__ *(includes playing shirt, shorts and socks)* 
-* Mini Roos Under 8-12 - __Total Cost $330__ *(includes playing shirt, shorts and socks)* 
+* Mini Roos Under 8-12 - __Total Cost $350__ *(includes playing shirt, shorts and socks)* 
 * __All players/parents are required to contribute five hours of voluntary service to the club in any capacity__
 * __THERE ARE NO OTHER FEES PAYABLE!__   
 
