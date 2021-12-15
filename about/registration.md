@@ -24,7 +24,7 @@ As we enter into our eigth year as a re-birthed Football Brisbane club, we are c
 As a result of football reforms in this state, governing body fees have been reduced which, in turn, has allowed us to pass on these savings to our members.
 
 __Registration Fees__  
-* Senior Mens and Womens (FQPL and Metro Leagues) - __Total Cost $500__ *(includes club polo, shorts and socks)* 
+* Senior Mens and Womens (FQPL and Metro Leagues) - __Total Cost $520__ *(includes club polo, shorts and socks)* 
 * A late fee of $30 applies if full payment is not made by the end of February
 * Full time students will receive a further subsidy of $50 of their fees
 * A loyalty discount of $50 is available for players who have been with the club for five years or more
@@ -34,6 +34,7 @@ __Registration Fees__
 * Junior Girls Divisional - __Total Cost $450__ *(includes club polo, shorts and socks)* 
 * Mini Roos Under 6/7 - __Total Cost $330__ *(includes playing shirt, shorts and socks)* 
 * Mini Roos Under 8-12 - __Total Cost $350__ *(includes playing shirt, shorts and socks)* 
+* For Juniors/Mini Roos a sibling discount of $50 applies for each successive child
 * __All players/parents are required to contribute five hours of voluntary service to the club in any capacity__
 * __THERE ARE NO OTHER FEES PAYABLE!__   
 
@@ -54,7 +55,7 @@ This covers:
 __Payment of Fees__  
 North Brisbane FC recognises that for a number of our players, particularly university students, finding all the money up-front to pay fees can be quite a challenge. Consequently, anyone who is experiencing financial hardship, can apply to the Treasurer to enter into a payment plan. However, before any player will be allowed to play in a fixture match, they must have paid at least 50% of their fee and have a payment plan in place for the balance that is owed.  
 
-Please note that for senior players and Over 35s an additional fee of $30 is payable if full payment of fees is not received by the end of February 2022 ($500 if paid in full by the end of Feb and $530 after that date).
+Please note that for senior players and Over 35s an additional fee of $30 is payable if full payment of fees is not received by the end of February 2022 (for example $520 if paid in full by the end of Feb and $550 after that date).
 
 __How to Register__  
 All registrations are done online. Go to the [Play Football website](https://www.playfootball.com.au) and click on register and nominate North Brisbane FC as your club. From there just follow the prompts. If you experience difficulties registering contact us via our Facebook page for further assistance.  
