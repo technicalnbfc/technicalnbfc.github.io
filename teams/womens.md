@@ -7,7 +7,7 @@ title: Senior Womens
   <div class="row top-buffer">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2021</h4>
+      <h4 class="text-center">Updated for 2022</h4>
     </div>
   </div>
   <hr>
@@ -15,21 +15,19 @@ title: Senior Womens
     <div class="col-md-8 offset-md-2 text-justify">
 <section id="Senior Womens" markdown="1">
 
-__Capital League__
 
-This year we will field a firsts and reserves team in the Capital League Division 1 competition. Training for our Capital League squad is on every Monday and Wednesday at Prentice Park from 7 pm to 8.30 pm __starting from Monday 18 January__.  
+__FQPL__  
+Like our men, both our Firsts and Reserves women will play in the newly-names FQPL Div 3 competition in 2022.  Training for our Capital League squad is on every Monday and Wednesday at Prentice Park from 7 pm to 8.30 pm, starting from Monday 17 January (training will be held at Norths Rugby on Monday 10 January and Wednesday 12 January from 7 pm while Prentice park is being top-dressed).  
 
-Players are always welcome to come down and trial - send us a message via [Facebook](https://www.facebook.com/northbrisbanefc/) or contact our head coach Fiore Bartilomo on [0403 511 853](tel:0403511853) or via email at <fiorebartilomo@bigpond.com>.  
+Players are always welcome to come down and trial - send us a message below or via Facebook or contact our head coach Fiore Bartilomo on 0403 511 853 or via email at [fiorebartilomo@bigpond.com](fiorebartilomo@bigpond.com).  
 
-__City League__
+__Metro (formerly City) League__  
+In addition to our FQPL sides, we will again have 3 Metro  League sides, likely to be in   divs 3,  and 5.  
 
-In addition to our Capital League side, we will have 3 City League sides. They are likely to be in divisions 3, 4 and 5. 
+Training for our Metro League players commences on Wednesday 2 February 2022 from 7pm to 8.30 pm at Kedron AFL, Sixth Avenue Kedron.
 
-Training for our City League players __starts on Wednesday 10 February 2021__ from 7pm to 8.30 pm at Kedron AFL, Sixth Avenue Kedron.  
+Spots are limited so you’ll need to get in quick. Anyone interested in playing Metro League - send us a message below or via Facebook or contact the senior women’s head coach Stephanie Tartan at [stephanietartan@hotmail.com](stephanietartan@hotmail.com). 
 
-Anyone interested in playing City League please send us a message via [Facebook](https://www.facebook.com/northbrisbanefc/) or contact the senior women’s head coach Jason Foo at <jas.kidd87@gmail.com> or by phone on [0422 064 126](tel:0422064126). 
-
-Also anyone specifically interested in playing City League division 5, please contact Rebecca Wright at <rwright@colwellwright.com.au> or by phone on [0403 066 985](tel:040306685).
 </section>
     </div>
   </div>

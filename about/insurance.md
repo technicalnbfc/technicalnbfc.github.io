@@ -6,7 +6,7 @@ title: Insurance
   <div class="row top-buffer">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2021/h4>
+      <h4 class="text-center">Updated for 2022</h4>
     </div>
   </div>
   <hr>
@@ -25,10 +25,13 @@ To assist players to receive proper and effective injury treatment, we have once
 
 With any claim you need a doctor’s referral and they also need to complete an “Attending Physician” statement. As such, we strongly urge you to visit your doctor and get their referral as soon as possible after the injury.  
 
+_
+
+Claim Forms can be accessed via the Claims Portal which can be found on the [Gow Gates Sport](https://football.gowgatessport.com.au/welcome/) website.  
+
 __Completed forms should be sent to [treasurer@northbrisbanefc.com.au](treasurer@northbrisbanefc.com.au).__  
 
-Claim Forms can be accessed via the Claims Portal which can be found on the [Football Brisbane](www.footballbrisbane.com.au) website. Go to the menu, click on "Resources" and then go to "Player registration - Insurance". There you'll see the Claims portal. Any queries, please direct them to the club Treasurer. 
-
+Any queries, please direct them to the club Treasurer.  
 
 __4tfi Physiotherapy__  
 1382 Sandgate Rd  

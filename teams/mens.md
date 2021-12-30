@@ -7,7 +7,7 @@ title: Senior Mens
   <div class="row top-buffer">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2021</h4>
+      <h4 class="text-center">Updated for 2022</h4>
     </div>
   </div>
   <hr>
@@ -15,21 +15,25 @@ title: Senior Mens
     <div class="col-md-8 offset-md-2">
 <section id="Senior Mens" markdown="1">
 
-__Capital League__  
+__Men’s FQPL 2022__  
+After the massively successful “double double”- premiers and champions- by both our Capital League Div 2 Firsts and Reserves in 2021- we are promoted to the newly-named FQPL div 4 competition in 2022.  
 
-This year we will field a firsts and reserves team in the Football Brisbane Capital League 2 competition.  
+Training is on every Tuesday and Thursday from 7 pm onwards at Prentice Park (note we’ll be training at Norths Rugby on Wednesday 5 January, Monday 10 January and Wednesday 12 January- all at 7 pm- while Prentice Park is being top-dressed).  
 
-Training is on every Tuesday and Thursday from 7 pm onwards at Prentice Park. __Training starts from 12 January 2021__. From the end of February, Thursday training sessions (@ 7pm) will be conducted at Valleys Hockey ground, Shaw Road, Kalinga.  
+Players are always welcome to come down and trial - send us a message below or via Facebook or contact our head coach Anj Sandhar on 0422 330 430 or via email at anjiaman11@gmail.com.  
 
-Players are always welcome to come down and trial - send us a message via [Facebook](https://www.facebook.com/northbrisbanefc/) or contact our head coach Anj Sandhar on [0422 330 430](tel:0422330430) or via email at <anjiaman11@gmail.com>.  
+__Metro (formerly City)  League__  
+With some of our older brigade moving into Over 35s, we are looking to field 3 teams in the Metro League competition - likely to be in Divs 4, , 6, 7 and 8.  
 
-__City League__
+Training/trials for all teams will commence on Wednesday 2 February  from 7 pm onwards at Kedron AFL, Sixth Avenue Kedron and take place every Wednesday thereafter.  
 
-This year we are looking to again field 4 teams in the City League competition - likely to be in Divs 4, 6, 7 and 8.  
+Spots are limited but any interested players - send us a message below or via Facebook or contact Chris Tully via email on cvtully11@outlook.com.  
 
-Training/trials for all teams will commence on Wednesday 17 February from 7 pm onwards at Kedron AFL, Sixth Avenue Kedron and take place every Wednesday thereafter.  
+__Over 35s__  
+We are also fielding an Over 35s team in 2022- made up largely of our ageing City div players. As with Metro divs, training will take place every Wednesday from 7pm at Kedron AFL.  
 
-Any interested players - send us a message via [Facebook](https://www.facebook.com/northbrisbanefc/) or contact Chris Tully via email on <cvtully11@outlook.com>.
+Any interested players - send us a message below or contact Chris Tully via email on <cvtully11@outlook.com>.  
+
 </section>
     </div>
   </div>
