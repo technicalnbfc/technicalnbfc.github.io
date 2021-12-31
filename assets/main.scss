@@ -3,8 +3,38 @@
 # only Main files contain this front matter, not partials.
 ---
 
+
+// Custom.scss
+// Option B: Include parts of Bootstrap
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "bootstrap/functions";
+
+// 2. Include any default variable overrides here
 @import "variables";
-@import "simplex/variables";
-@import "bootstrap/bootstrap";
-@import "bootstrap/vendor/rfs";
-@import "simplex/bootswatch";
+//@import "journal/variables";
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+// 4. Include any optional Bootstrap components as you like
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+
+// 5. Add additional custom code here
+
+
+
+// Custom.scss
+// Option A: Include all of Bootstrap - NOT USED
+
+// Include any default variable overrides here (though functions won't be available)
+
+// @import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
