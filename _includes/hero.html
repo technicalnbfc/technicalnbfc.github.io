@@ -1,13 +1,22 @@
 <div class="container col-xl-10 col-xxl-8 px-4 py-1 mb-5">
-  <div class="row align-items-center py-3 mt-3 rounded border shadow-lg">
-    <div class="col-lg-7 text-center text-lg-start ps-5">
-      <h1 class="display-4 fw-bold lh-1 mb-3">Join North Brisbane's premier football club</h1>
-      <p class="col-lg-10 fs-4">Located at Prentive Park, Lutwyche and competing in the Football Brisbane competition we have senior mens and womens teams, as well as juniors and Mini Roos.</p>
+  <div class="row align-items-center py-3 mt-3 rounded border shadow-lg" id="custom-cards" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(87, 87, 87, 0.5)), url('../images/jumbotron_06.jpg');">
+    <div class="col-lg-7 text-center text-lg-start ps-sm-5 mb-5">
+      <div class="card card-cover h-100 overflow-hidden text-white bg-transparent rounded-5 shadow-lg py-2 px-2">
+        <h1 class="display-4 fw-bold lh-1 mb-3 card-title">
+          Join North Brisbane's premier football club
+        </h1>
+        <p class="col-lg-10 fs-4 card-text">
+          Located at Prentice Park, Lutwyche and competing in the Football
+          Brisbane competition we have senior mens and womens teams, as well as
+          juniors and Mini Roos.
+        </p>
+        <a href="../blog/index.html" class="btn btn-danger btn-lg">
+          See out our latest news
+        </a>
+      </div>
     </div>
 
-    <div class="col-md-10 mx-auto col-lg-5">
-      {% include hero_form.html %}
-    </div>
+    <div class="col-md-10 mx-auto col-lg-5">{% include hero_form.html %}</div>
   </div>
 </div>
 

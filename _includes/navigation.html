@@ -1,49 +1,63 @@
-{% for entry in site.data.navigation %}
-{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
-    {% if fullurl == page.url %}
-        {% assign current_page = fullurl %}
-        {% break %}
-    {% elsif page.url contains fullurl %}
-        {% assign current_page = fullurl %}
-    {% endif %}
-{% endfor %}
+{% for entry in site.data.navigation %} {% capture fullurl %}{{ site.baseurl
+}}{{ entry.url }}{% endcapture %} {% if fullurl == page.url %} {% assign
+current_page = fullurl %} {% break %} {% elsif page.url contains fullurl %} {%
+assign current_page = fullurl %} {% endif %} {% endfor %}
 
-
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-4 fixed-top">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4 fixed-top">
   <div class="container">
-    <a class="navbar-brand" href="{{ site.baseurl }}/index.html">North Brisbane FC</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar01" aria-controls="navbar01" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="{{ site.baseurl }}/index.html"
+      >North Brisbane FC</a
+    >
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbar01"
+      aria-controls="navbar01"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbar01">
-    <ul class="navbar-nav me-auto mb-2 mb-sm-0">
-    {% for entry in site.data.navigation %}
-        {% if entry.url == current_page %}
-            {% assign current = 'active' %}
-        {% else %}
-            {% assign current = '' %}
-        {% endif %}
+      <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+        {% for entry in site.data.navigation %} {% if entry.url == current_page
+        %} {% assign current = 'active' %} {% else %} {% assign current = '' %}
+        {% endif %} {% assign sublinks = entry.sublinks %} {% if sublinks %}
+        <li class="nav-item dropdown {{ current }}">
+          <a
+            class="nav-link dropdown-toggle"
+            href="{{ site.baseurl }}{{ entry.url }}"
+            id="dropdown01"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+            >{{ entry.title }}</a
+          >
+          <ul class="dropdown-menu" aria-labelledby="dropdown01">
+            {% for sublink in sublinks %}
+            <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}"
+              >{{ sublink.title }}</a
+            >
+            {% endfor %}
+          </ul>
+        </li>
 
-        {% assign sublinks = entry.sublinks %}
-        {% if sublinks %}
-            <li class="nav-item dropdown {{ current }}">
-                <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ entry.url }}" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">{{ entry.title }}</a>
-                <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                    {% for sublink in sublinks %}
-                    <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                    {% endfor %}
-                </ul>
-            </li>
-
         {% else %}
-            <li class="nav-item {{ current }}"><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-    <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/about/committee.html">Contact Us</a></li>
-    </ul>
+        <li class="nav-item {{ current }}">
+          <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}"
+            >{{ entry.title }}</a
+          >
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/about/committee.html"
+            >Contact Us</a
+          >
+        </li>
+      </ul>
     </div>
   </div>
 </nav>
