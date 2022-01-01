@@ -2,6 +2,7 @@
 published: true
 layout: posts
 title: Summer Football is Here!
+post_lead: "Summer football is here and kickoff dates and registration fee information is up now"
 ---
 
 ### Summer football is here and we would love to see you join
@@ -23,9 +24,7 @@ title: Summer Football is Here!
 - All games to be played at Prentice Park - the home of football in Brisbane!
 - Any enquiries/queries, please Message us via our Facebook page, use the form below or contact Greg on [0437 320 107](tel:61437320107) or via email on [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au?subject=Summer%20Football).
 
-Register now at [playfootball.com.au](https://www.playfootball.com.au)  
-  
+Register now at [playfootball.com.au](https://www.playfootball.com.au)
+
 Cheers!  
 North Brisbane FC Team
-
-{% include form.html %}
