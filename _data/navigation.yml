@@ -3,30 +3,8 @@
 - title: Home
   url: /
 
-- title: About
-  url: /about/
-  sublinks:
-    - title: Location
-      url: /about/location
-    - title: Committee
-      url: /about/committee
-    - title: History
-      url: /about/history
-    - title: Registration
-      url: /about/registration
-    - title: Insurance
-      url: /about/insurance
-    - title: Club Colours
-      url: /about/colours
-
 - title: News and Info
   url: /blog
-
-- title: Community
-  url: /community
-
-- title: Sponsors
-  url: /sponsors
 
 - title: Teams
   url: /teams/
@@ -39,6 +17,26 @@
       url: /teams/mini_roos
     - title: Junior Girls
       url: /teams/juniors
+
+- title: About
+  url: /about/
+  sublinks:
+    - title: Location
+      url: /about/location
+    - title: Committee
+      url: /about/committee
+    - title: Community
+      url: /about/community
+    - title: Sponsors
+      url: /about/sponsors
+    - title: History
+      url: /about/history
+    - title: Registration
+      url: /about/registration
+    - title: Insurance
+      url: /about/insurance
+    - title: Club Colours
+      url: /about/colours
 
 - title: Referees
   url: /referees

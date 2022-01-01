@@ -1,42 +1,41 @@
+<div class="container border-top my-5 py-3">
+  <!-- modify this form HTML and place wherever you want your form -->
+  <div class="col-2"></div>
 
-<div class="container">
-  <hr>
-<!-- modify this form HTML and place wherever you want your form -->
-<form name="input" action="https://formspree.io/f/xoqprkpe" method="POST">
-
-<div class="offset-md-2">
-  <h4>Contact Us</h4>
+  <div class="col">
+    <h4>Contact Us</h4>
+    <form name="input" action="https://formspree.io/f/xoqprkpe" method="POST" class="">
+      <div class="form-floating mb-3">
+        <p class="lead text-left">
+          <a class="fw-bolder text-primary" href="https://m.me/northbrisbanefc" target="_blank" rel="noreferrer noopener">Message us on Facebook Messenger</a> or email us below
+        </p>
+      </div>
+    
+      <div class="form-floating mb-3 .d-none">
+        <input type="text" name="_gotcha" style="display: none">
+        <input type="hidden" name="_subject" value="North Brisbane FC Enquiry" />
+        <input type="hidden" name="_cc" value="treasurer@northbrisbanefc.com.au" />
+      </div>
+    
+      <div class="form-floating mb-3">
+        <input type="text" class="form-control" id="floatingName" name="name" placeholder="Name"/>
+        <label for="floatingInput">Name</label>
+      </div>
+    
+      <div class="form-floating mb-3">
+        <input type="text" class="form-control" id="floatingEmail" name="_replyto" placeholder="name@example.com"/>
+        <label for="floatingInput">Email address</label>
+      </div>
+    
+      <div class="form-floating mb-3">
+        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" name="message"></textarea>
+        <label for="floatingTextarea">Message</label>
+      </div>
+      <!-- your other form fields go here -->
+    </form>
+  </div>
   
-  <div class="form-group form-row top-buffer">
-    <p class="h5 col-md-8"><a class="text-info" href="https://m.me/northbrisbanefc" >Via Facebook Messenger</a> or email us below</p>
+  <div class="col-2">
+    <button class="btn btn-lg btn-outline-primary" type="submit">Send</button>
   </div>
-
-  <div class="form-group .d-none">
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_subject" value="North Brisbane FC Enquiry"/>
-    <input type="hidden" name="_cc" value="treasurer@northbrisbanefc.com.au"/>
-  </div>
-
-  <div class="form-group form-row">
-    <label class="col-md-2 col-form-label">Name:</label>
-    <input type="text" class="form-control col-md-7" name="name" placeholder="Name">
-  </div>
-
-  <div class="form-group form-row">
-    <label class="col-md-2 col-form-label">Your email:</label>
-    <input type="text" class="form-control col-md-7" name="_replyto" placeholder="Email">
-  </div> 
-  
-  <div class="form-group form-row">  
-    <label class="col-md-2 col-form-label">Your message:</label>
-    <textarea class="form-control col-md-7" name="message"></textarea>
-  </div>
-  <!-- your other form fields go here -->
-
-  <button class="form-row btn btn-primary" type="submit">Send</button>
-
-</div>
-
-</form>
-
 </div>
