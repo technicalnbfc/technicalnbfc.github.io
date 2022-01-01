@@ -6,18 +6,6 @@
 - title: News and Info
   url: /blog
 
-- title: Teams
-  url: /teams/
-  sublinks:
-    - title: Senior Mens
-      url: /teams/mens
-    - title: Senior Womens
-      url: /teams/womens
-    - title: Mini Roos
-      url: /teams/mini_roos
-    - title: Junior Girls
-      url: /teams/juniors
-
 - title: About
   url: /about/
   sublinks:
@@ -39,4 +27,4 @@
       url: /about/colours
 
 - title: Referees
-  url: /referees
+  url: /about/referees

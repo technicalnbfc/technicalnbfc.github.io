@@ -6,11 +6,11 @@ title: North Brisbane FC Home
 {% include hero.html %}
 
 <div class="container">
-  <div class="row">
+  <div class="row h-100">
     <div class="col-md-8">
       <h1 class="pb-4 mb-4 fst-italic border-bottom">Latest News</h1>
       <article class="blog-post">
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:8 %}
 
          <h2><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ post.title }}</a></h2>
 
@@ -25,7 +25,7 @@ title: North Brisbane FC Home
 
     <div class="col-md-4">
       <div class="postition-sticky">
-        <div class="p-4 mb-3 bg-light rounded border">
+        <div class="p-4 mb-3 bg-light rounded border"> 
           <h3 class="text-center">Thank you to our major sponsors</h3>
           <img alt="Carwardine and Associates" class="img-fluid img-thumbnail my-4 mx-auto d-block" src="../images/ca-60px.png">
           <img alt="Rainbow Fertility" class="img-fluid img-thumbnail rounded my-4 mx-auto d-block" src="../images/rf-60px.png">

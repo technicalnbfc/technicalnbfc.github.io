@@ -2,6 +2,7 @@
 published: true
 layout: posts
 title: Summer Football is Here!
+tags: ["Registrations", "Summer football"]
 post_lead: "Summer football is here and kickoff dates and registration fee information is up now"
 ---
 

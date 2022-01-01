@@ -2,6 +2,7 @@
 published: true
 layout: posts
 title: Women's Foootball is here in 2022
+tags: ["Registrations", "Juniors", "Womens"]
 post_lead: North Brisbane FC are looking to create a junior women's program for players aged between 13-15 in 2022.
 ---
 
