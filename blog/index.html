@@ -1,43 +1,75 @@
 ---
-layout: defaults
-title: News
+layout: blog
+title: News and Information
 ---
 
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11';
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
 
-<div class="container-fluid">
-	<div class="row top-buffer">
-		<div class="col">
-			<h1 class="text-center">News</h1>
-		</div>
-	</div>
-	<hr>
+
+<div class="container">
+  <div class="row">
+    <h1 class="text-center">{{ page.title }}</h1>
+  </div>
+  <hr>
 </div>
 
 <div class="container">
-	<div class="row">
-		<div class="col-md-2"></div>
-		<div class="col-md-4">
-			<p>Follow us on Facebook for the most up to date news and events.</p><br>
-			<p><strong>Wet Weather</strong></p>
-			<p>In the event of wet weather and field closure please see our Facebook page for field status.</p>
-			
-			<p class="h3">Blog Posts</p>
-			<ul class="posts">
-			{% for post in site.posts %}
-				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-			{% endfor %}
-			</ul>
-		</div>
-		<div class="col-md-6 mw-100">
-			<div class="fb-page" data-href="https://www.facebook.com/northbrisbanefc/" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/northbrisbanefc/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/northbrisbanefc/">North Brisbane FC</a></blockquote></div>
-		</div>
-	</div>
+  <div class="row">
+    <div class="col-md-5 pb-4">
+      {% include facebook_frame.html %}
+    </div>
+
+    <div class="col-md-7">
+      <h2 class="">Wet Weather</h2>
+      <p>In the event of wet weather and field closure please see our Facebook page for field status.</p>
+
+      <h2 class="border-top pt-3 mt-5 pb-1">Information and Blog Posts</h2>
+      <article class="blog-post">
+        {% for post in paginator.posts %}
+          {% if post.categories contains 'Blog' %}
+            <h5 class="pt-2">
+            <a href="{{ post.url }}" title="{{ post.title }}" class="text-reset blog-post-title">{{ post.title }}</a>
+            </h5>
+            <p>{{ post.date | date_to_string }}</p>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Pagination links -->
+        <div class="row pagination fs-6 bg-light rounded">
+          <div class="col">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous </a>
+          {% else %}
+            <span class="previous d-none text-start">Previous </span>
+          {% endif %}
+          </div>
+
+          <div class="col text-center">
+          <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          </div>  
+
+          <div class="col text-end">
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next"> Next</a>
+          {% else %}
+            <span class="next d-none"> Next</span>
+          {% endif %}
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
 </div>
+<!--     <div class="col-md-6">
+  <br>
+  <p><strong>Wet Weather</strong></p>
+  <p>In the event of wet weather and field closure please see our Facebook page for field status.</p>
+  
+  <p class="h3">Blog Posts</p>
+  <ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div> -->
+
+

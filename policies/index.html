@@ -1,0 +1,44 @@
+---
+layout: defaults
+title: Policies
+---
+
+
+
+<div class="container">
+  <div class="row">
+    <h1 class="text-center">{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h2 class="border-top pt-3 mt-5 pb-1">Documentation</h2>
+      <article class="blog-post">
+        {% for post in site.posts %}
+          {% if post.categories contains 'Policy' %}
+            <h5 class="pt-2">
+            <a href="{{ post.url }}" title="{{ post.title }}" class="text-reset blog-post-title">{{ post.title }}</a>
+            </h5>
+            <p>{{ post.date | date_to_string }}</p>
+          {% endif %}
+        {% endfor %}
+      </article>
+    </div>
+  </div>
+</div>
+<!--     <div class="col-md-6">
+  <br>
+  <p><strong>Wet Weather</strong></p>
+  <p>In the event of wet weather and field closure please see our Facebook page for field status.</p>
+  
+  <p class="h3">Blog Posts</p>
+  <ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div> -->
+
+

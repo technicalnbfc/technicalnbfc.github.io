@@ -1,28 +1,30 @@
 ---
-layout: defaults
+layout: about
 title: Club Colours
 ---
+
 <div class="container">
-  <div class="row top-buffer">
+  <div class="row">
     <div class="col">
       <h1 class="text-center">Club Colours</h1>
     </div>
   </div>
   <hr>
   <div class="row">
-    <div class="col-md-8 offset-md-2 text-justify">
+    <div class="col-md-8 text-justify">
 <section id="Insurance" markdown="1">
 __Home playing strip:__  
 Shirt: White with red pin-stripes and red sleeve.   Shorts: Red.  
-Socks: white.  
+Socks: white.
 
-__Alternative Playing Strip:__  
+**Alternative Playing Strip:**  
 Shirt: Navy with orange highlight.  
 Shorts: Navy.  
-Socks: White.  
+Socks: White.
 
-__Club Polo:__   
-Red with white trim to the side 
+**Club Polo:**
+Red with white trim to the side
+
 </section>
     </div>
   </div>

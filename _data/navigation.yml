@@ -3,6 +3,9 @@
 - title: Home
   url: /
 
+- title: News and Info
+  url: /blog
+
 - title: About
   url: /about/
   sublinks:
@@ -10,35 +13,17 @@
       url: /about/location
     - title: Committee
       url: /about/committee
+    - title: Community
+      url: /about/community
+    - title: Sponsors
+      url: /about/sponsors
     - title: History
       url: /about/history
-    - title: Registration
-      url: /about/registration
-    - title: Insurance
-      url: /about/insurance
     - title: Club Colours
       url: /about/colours
 
-- title: News and Media
-  url: /blog
-
-- title: Community
-  url: /community
-
-- title: Sponsors
-  url: /sponsors
-
-- title: Teams
-  url: /teams/
-  sublinks:
-    - title: Senior Mens
-      url: /teams/mens
-    - title: Senior Womens
-      url: /teams/womens
-    - title: Mini Roos
-      url: /teams/mini_roos
-    - title: Junior Girls
-      url: /teams/juniors
+- title: Governance
+  url: /policies
 
 - title: Referees
-  url: /referees
+  url: /about/referees

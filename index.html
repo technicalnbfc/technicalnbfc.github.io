@@ -1,58 +1,36 @@
 ---
-layout: defaults
+layout: landing
 title: North Brisbane FC Home
 ---
 
 {% include hero.html %}
 
 <div class="container">
-  <div class="row">
-    <div class="col">
-      <h1 class="text-center">Women's 2022 Football is here!</h1>
+  <div class="row h-100">
+    <div class="col-md-8">
+      <h1 class="pb-4 mb-4 fst-italic border-bottom">Latest News</h1>
+      <article class="blog-post">
+        {% for post in site.posts limit:8 %}
+          {% if post.categories contains 'Blog' %}
+            <h2><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ post.title }}</a></h2>
+
+            <a href="{{ post.url }}" title="{{ post.title }}" class="blog-post-meta text-reset text-decoration-none">{{ post.date | date_to_string }}</a>
+
+            <p class="mb-3 pb-3">{{ post.post_lead | strip_html }}</p>
+          {% endif %}
+        {% endfor %}
+      </article>
+    </div>
+
+    <div class="col-md-4">
+      <div class="postition-sticky">
+        <div class="p-4 mb-3 bg-light rounded border"> 
+          <h3 class="text-center">Thank you to our major sponsors</h3>
+          <img alt="Carwardine and Associates" class="img-fluid img-thumbnail my-4 mx-auto d-block" src="../images/ca-60px.png">
+          <img alt="Rainbow Fertility" class="img-fluid img-thumbnail rounded my-4 mx-auto d-block" src="../images/rf-60px.png">
+        </div>
+      </div>
     </div>
   </div>
 </div>
-<div class="container">
-  <div class="row text-center">
-    <div class="col">
-      <h3>Come join our expanding women's football program</h3>
-      <a role="button" class="btn btn-primary btn-lg" href="{% post_url 2021-11-03-girls-football-2022 %}">Details are available now</a>
-    </div>
-  </div>
-  <hr>
-  <div class="row top-buffer">
-    <div class="col-sm">
-      <div class="text-center"><i class="text-primary far fa-heart fa-6x"></i></div>
-      <br>
-      <div class="text-center">Fitness, fun and health. North Brisbane FC strives to be the best, and to help you be the best you can be.</div>
-    </div>
-    <div class="col-sm top-buffer">
-      <div class="text-center"><i class="text-primary fas fa-map-marker-alt fa-6x"></i></div>
-      <br>
-      <div class="text-center">Located at Prentice Park, Lutwyche.</div>
-    </div>
-    <div class="col-sm top-buffer">
-      <div class="text-center"><i class="text-primary fas fa-futbol fa-6x"></i></div>
-      <br>
-      <div class="text-center">Competing in the Football Brisbane Competition, we have senior mens and womens teams, as well as Mini Roos kickoff program ages 5 9 years mixed gender</div>
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row top-buffer">
-    <div class="col text-center"><h3>Thank you to our major sponsors</h3></div>
-  </div>
-  <div class="row clearfix top-buffer">
-    <div class="col-sm text-center ">
-      <!-- <h4><strong>Carwardine &amp; Associates</strong></h4> -->
-      <img alt="Carwardine &amp; Associates" class="top-buffer img-fluid right-block logo-60px" src="../images/ca-60px.png">
-      <br>
-    </div>
-    <div class="col-sm text-center">
-      <!-- <h4><strong>Rainbow Fertility</strong></h4> -->
-      <img alt="Rainbow Fertility" class="top-buffer img-fluid right-block logo-60px" src="../images/rf-60px.png">
-      <br>
-    </div>
-  </div>
-</div>
+
