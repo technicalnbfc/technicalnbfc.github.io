@@ -3,6 +3,7 @@ published: true
 layout: posts
 title: 2022 Mini Roos
 tags: ["Registrations", "Juniors"]
+category: Blog
 post_lead: In 2021 we ran a successful Mini Roos Kick Off Program with over 40 players during terms 2, 3 and 4. This year we plan to run a number of Mini Roos teams in the Football Queensland competition for the first time, including three or four U6 and U7 teams, two U8/U9 teams, and two U10-U12 teams. Registration fees cover all training sessions, game fees, and include a playing strip, shorts and socks.
 ---
 

@@ -3,6 +3,7 @@ published: true
 layout: posts
 title: 2022 Junior Girls
 tags: ["Registrations", "Juniors"]
+category: Blog
 post_lead: In 2022 we are aiming to field two junior girls teams in the Football Queensland competition for the first time. Our fees include coaching twice a week, full kit and all game day fees. We have a come and try day on Saturday 29 January 2022 at 9:30am where everyone is welcome to join.
 ---
 

@@ -3,6 +3,7 @@ published: true
 layout: posts
 title: 2022 Player Insurance Details
 tags: ["Insurance", "All"]
+category: Blog
 post_lead: All players who register for North Brisbane FC are entitled to access the FFA Insurance Scheme. This scheme essentially provides for capital, loss of income and non-medicare expense outlays incurred by players in the event of injury. By far the most common claim is for out of pocket physiotherapy and dental costs associated with injuries while playing/training for the club. Under the scheme, players are entitled to 85% of their out of pocket expenses less a $50 excess per injury.
 ---
 

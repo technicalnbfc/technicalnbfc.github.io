@@ -11,14 +11,13 @@ title: North Brisbane FC Home
       <h1 class="pb-4 mb-4 fst-italic border-bottom">Latest News</h1>
       <article class="blog-post">
         {% for post in site.posts limit:8 %}
+          {% if post.categories contains 'Blog' %}
+            <h2><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ post.title }}</a></h2>
 
-         <h2><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ post.title }}</a></h2>
+            <a href="{{ post.url }}" title="{{ post.title }}" class="blog-post-meta text-reset text-decoration-none">{{ post.date | date_to_string }}</a>
 
-          <!-- <h2 title="{{ post.title }}" class="blog-post-title">{{ post.title }}</h2> -->
-
-          <a href="{{ post.url }}" title="{{ post.title }}" class="blog-post-meta text-reset text-decoration-none">{{ post.date | date_to_string }}</a>
-
-          <p class="mb-3 pb-3">{{ post.post_lead | strip_html }}</p>
+            <p class="mb-3 pb-3">{{ post.post_lead | strip_html }}</p>
+          {% endif %}
         {% endfor %}
       </article>
     </div>

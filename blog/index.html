@@ -25,10 +25,12 @@ title: News and Information
       <h2 class="border-top pt-3 mt-5 pb-1">Information and Blog Posts</h2>
       <article class="blog-post">
         {% for post in paginator.posts %}
-          <h5 class="pt-2">
-          <a href="{{ post.url }}" title="{{ post.title }}" class="text-reset blog-post-title">{{ post.title }}</a>
-          </h5>
-          <p>{{ post.date | date_to_string }}</p>
+          {% if post.categories contains 'Blog' %}
+            <h5 class="pt-2">
+            <a href="{{ post.url }}" title="{{ post.title }}" class="text-reset blog-post-title">{{ post.title }}</a>
+            </h5>
+            <p>{{ post.date | date_to_string }}</p>
+          {% endif %}
         {% endfor %}
 
         <!-- Pagination links -->
