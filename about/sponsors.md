@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: about
 title: Sponsors
 ---
 
@@ -65,7 +65,7 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
       <img class="img-fluid center-block top-buffer bottom-buffer logo-60px" src="../images/4tfi_opt.png">
     </div>
   </div>
- 
+
   <div class="row top-buffer">
     <div class="col-md-4">
         <img class="img-fluid center-block top-buffer bottom-buffer logo-120px" src="../images/12 Logo.png">
@@ -113,6 +113,5 @@ E: <a href="mailto:treasurer@northbrisbanefc.com.au">treasurer@northbrisbanefc.c
       <!--img class="img-fluid center-block top-buffer bottom-buffer logo-100px" src="../images/sponsor logo coffee testing.png"-->
     </div>
   </div>
-
 
 </div>
