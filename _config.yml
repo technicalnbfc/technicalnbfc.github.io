@@ -18,8 +18,13 @@ google_analytics: G-T24MFFJCSC
 # Build settings
 markdown: kramdown
 #theme: minima
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -34,9 +39,9 @@ plugins:
 #   - vendor/ruby/
 
 sass:
-    sass_dir: _sass
-    style: compressed
-    
+  sass_dir: _sass
+  style: compressed
+
 compress_html:
   clippings: []
   comments: []
