@@ -28,3 +28,34 @@
 .rounded-5 {
   border-radius: 1rem;
 }
+
+/*! div style - from https://dmnfarrell.github.io/software/jekyll-galleries*/
+.main-image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  justify-content: center;
+  padding: 4px;
+}
+
+.sup-image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  justify-content: center;
+  padding: 4px;
+}
+
+.box {
+  flex-basis: 25%;
+  width: 100%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.img-gallery {
+  max-width: 100%;
+  max-height: 100px;
+  object-fit: contain;
+  transform: scale(1);
+}
