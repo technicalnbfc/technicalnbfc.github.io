@@ -20,3 +20,5 @@ To register your interest please complete the EOI below:
 For some inspiration, here is a [short video from our awe-inspriring Matildas in their match against Indonesia.](https://youtu.be/3dB-7YBj5Iw)
 
 For further information please contact the club at [info@northbrisbanefc.com.au](info@northbrisbanefc.com.au).
+
+![All Girls Development Clinic Brochure](/images/2022-01-25-all-girls-clinic-brochure.jpg)
