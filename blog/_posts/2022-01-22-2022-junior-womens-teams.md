@@ -17,8 +17,8 @@ Our program offers:
 - Holistic learning environment- where we look to develop young women, not just young footballers.
 - Excellent fees- $450- which covers everything (no additional game day fees) and you get a full kit to keep- club polo, playing strip, shorts and socks.
 
-Keep an eye out for our come and try day on Saturday 29 January at 9.30 a.m.
+Keep an eye out for our come and try day on Saturday 5th February at 10:30 a.m.
 
-Please submit your Expression of Interest using the form below….key details to include are your name, age, playing history and preferred playing position.
+Please submit your Expression of Interest using the form below; key details to include are your name, age, playing history and preferred playing position.
 
 Any further info, feel free to contact Maurice Sorbello on 0400 006 994 or Greg Vitulano on 0437 320 107.
