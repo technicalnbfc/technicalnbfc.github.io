@@ -7,3 +7,4 @@ _site/
 .prettierrc.json
 .prettierignore
 workspace.code-workspace
+.vscode/
