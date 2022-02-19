@@ -9,19 +9,19 @@ title: Committee
       <h4 class="text-center">Updated for 2022</h4>
     </div>
   </div>
-  <hr>
+</div>
 
-  <div class="col">
-    <ul>
+  <hr>
+ 
+<div class="container">
+  <div class="row">
     {% for member in site.data.committee %}
-      <h5> {{ member.role }} </h5>
-      <li>
-          {{ member.name }}
-          {{ member.phone }}
-          {{ member.email }}
-      </li>
+      <span class="">
+        <h5 class=""> {{ member.role }} </h5>
+            <ul>{{ member.name }}</ul>
+            <p>{{ member.phone }}</p>
+            <p>{{ member.email }}</p>
+      </span>
     {% endfor %}
-    </ul>
   </div>
-  
 </div>
