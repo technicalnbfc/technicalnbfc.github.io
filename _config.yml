@@ -25,6 +25,9 @@ paginate_path: "/blog/page:num/"
 #include:
 #  -
 
+mainsponsorsurl: "/assets/mainsponsors/"
+supportingsponsorsurl: "/assets/supportingsponsors/" 
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
