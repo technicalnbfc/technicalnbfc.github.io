@@ -21,7 +21,7 @@ With any claim you need a doctor’s referral and they also need to complete an 
 
 Claim Forms can be accessed via the Claims Portal which can be found on the [Gow Gates Sport](https://football.gowgatessport.com.au/welcome/) website.
 
-**Completed forms should be sent to [treasurer@northbrisbanefc.com.au](treasurer@northbrisbanefc.com.au).**
+**Completed forms should be sent to [info@northbrisbanefc.com.au](info@northbrisbanefc.com.au).**
 
 Any queries, please direct them to the club Treasurer.
 
