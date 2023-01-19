@@ -1,13 +1,12 @@
 ---
 published: true
-layout: posts
+layout: posts_imageleft
 title: 2023 All Girls Development Clinic
 tags: ["Juniors", "Registrations"]
 category: Blog
 post_lead: On Saturday Saturday 28th January from 10-11:30am at Prentice Park Lutwyche, North Brisbane FC is hosting an all girls development clinic for juniors.
+img_link: /images/2023-01-18-all-girls-clinic-brochure.png
 ---
-
-![All Girls Development Clinic Brochure](/images/2023-01-18-all-girls-clinic-brochure.png){:.float-md-start; .img-fluid}
 
 On Saturday Saturday 28th January from 10-11:30am at Prentice Park, Thistle Street, Lutwyche, North Brisbane FC is hosting a All Girls Development Clinic for Junior Girls.
 
