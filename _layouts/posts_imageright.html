@@ -1,0 +1,23 @@
+---
+layout: defaults
+---
+
+<div class="container my-3 py-3">
+  <div class="row">
+    <article class="blog-post">
+      <h1 class="text-left border-bottom blog-post-title">{{ page.title }}</h1>
+      <p class="blog-postmeta">{{ page.date | date_to_string }}</p>
+    </article>
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <article class="blog-post">
+        <p>{{ content }}</p>
+      </article>
+    </div>
+    <div class="col-xs-8 col-md-6">
+      <img src="{{ page.img_link }}" class="img-fluid" />
+    </div>
+  </div>
+</div>

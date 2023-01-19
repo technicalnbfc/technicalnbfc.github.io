@@ -1,6 +1,6 @@
 ---
 published: true
-layout: posts_imageleft
+layout: posts_imageright
 title: 2023 All Girls Development Clinic
 tags: ["Juniors", "Registrations"]
 category: Blog
