@@ -7,7 +7,6 @@ title: History
   <div class="row">
     <div class="col">
       <h1 class="text-center">{{ page.title }}</h1>
-      <h4 class="text-center">Updated for 2022</h4>
     </div>
   </div>
   <hr>
@@ -28,13 +27,13 @@ In 2015, the club, in association with the New Farm Punjabi community, fielded 2
 
 2021 proved to be a stellar year for our men’s Capital League Firsts and Reserves teams who both won the premiership and grand finals, thereby doing the “double double”.
 
-As we roll into 2022, we can reflect on a massive growth over the intervening 6 years. Both our Men’s and Women’s Firsts and Under 23 teams will transit into the Football Qld (FQ) FQPL div 4 (men) and div 3 (women).
+As we roll into 2023, we can reflect on a massive growth over the intervening 7 years. Both our Men’s and Women’s Firsts and Under 23 teams were promoted to the FQPL div 3 and 2 competitions respectively during 2022, the only community football to have achieved this goal.
 
 We’ll have an additional 6 teams- 3 men and 3 women- playing in FQ Metro competitions, reflecting the club’s commitment to gender-inclusive policies.
 
-Additionally, we’ll have a men’s Over 35 team. We’ll be running boys and girls teams in Mini Roos competition for the first time in 2022, from ages 7-12 (about 70 players in total). We have also targeted 2 junior girls teams (under 13 and 15).
+Additionally, we’ll have a men’s Over 35 team. We’ll continue to grow our boys and girls teams in Mini Roos competition from ages 7-13 (about 100 players in total). We will continue to field a junior girl's team in under 17 competition, building on a fantastic first season where the girls won the league and grand final without dropping a point.
 
-In all, we expect to field over 300 NBFC players in Football Qld competition, the highest number since our re-birth in 2015 when we started off with 2 teams. This is very much at operating capacity for a one-pitch field.
+In all, we expect to field over 350 NBFC players in Football Qld competition, the highest number since our re-birth in 2015 when we started off with 2 teams. This is very much at operating capacity for a one-pitch field.
 
 Off the field, we have also made huge strides. Thanks to grants from the Communities Sports Infrastructure (Federal government), and Get Going Playing and Spaces (Qld government), we were able to do a massive field upgrade involving the erection of perimeter fencing and a total re-laying of our playing surface for the start of the 2020 season.
 
