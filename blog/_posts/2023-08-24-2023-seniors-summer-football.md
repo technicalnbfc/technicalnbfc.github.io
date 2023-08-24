@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: posts
 title: Seniors Summer Football is here in 2023
 tags: ["Seniors", "Registrations"]
