@@ -2,7 +2,7 @@
 published: true
 layout: posts
 title: 2024 Juniors Football EOI
-tags: ["juniors", " registrations "]
+tags: ["Juniors", "Registrations"]
 category: Blog
 post_lead: North Brisbane FC is excited to open up expressions of interest across our junior boys and girls community teams for the 2024 season.
 ---
@@ -23,4 +23,4 @@ The 2024 season is anticipated to run from March until September 2024, with trai
  
 Please register your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSdm3OCVHqeuvogP5OyYV6rBTWorcGAh5Zb125km74EASV0kHg/viewform?usp=sharing)to receive pre-season updates and key registration information.
   
-For further information, please contact us at [northbrisbanefc.juniors@gmail.com](northbrisbanefc.juniors@gmail.com)
+For further information, please contact [northbrisbanefc.juniors@gmail.com](northbrisbanefc.juniors@gmail.com)
