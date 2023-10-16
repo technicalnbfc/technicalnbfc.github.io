@@ -21,6 +21,6 @@ Age Groups:
  
 The 2024 season is anticipated to run from March until September 2024, with training 1 to 2 nights per week (programme dependent) and weekend games.
  
-Please register your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSdm3OCVHqeuvogP5OyYV6rBTWorcGAh5Zb125km74EASV0kHg/viewform?usp=sharing)to receive pre-season updates and key registration information.
+Please register your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSdm3OCVHqeuvogP5OyYV6rBTWorcGAh5Zb125km74EASV0kHg/viewform?usp=sharing) to receive pre-season updates and key registration information.
   
 For further information, please contact [northbrisbanefc.juniors@gmail.com](northbrisbanefc.juniors@gmail.com)
