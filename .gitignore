@@ -6,6 +6,8 @@ _site/
 .ruby-version
 .prettierrc.json
 .prettierignore
+.liquidrc
+.eslintrc.json
 workspace.code-workspace
 
 
@@ -16,3 +18,8 @@ workspace.code-workspace
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+### Node modules ###
+node_modules/*
+package.json
+package-lock.json
