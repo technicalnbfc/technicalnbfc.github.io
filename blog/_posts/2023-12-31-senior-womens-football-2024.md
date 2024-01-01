@@ -8,7 +8,7 @@ post_lead: Our FQPL Firsts and Under 23 teams will again play in the FQPL divisi
 ---
 
 **FQPL**  
-Our FQPL Firsts and Under 23 women will again play in the FQPL Div 2 competition in 2024. Training for our FQPL squad is on every Monday and Wednesday at Prentice Park from 7 pm  sharp to 8.30 pm, starting Monday 8 January (training will be held at Asley Rugby League Football Club (340 Zillmere Road) on Wednesday 4 January from 7 pm while Prentice Park is being top-dressed).
+Our FQPL Firsts and Under 23 women will again play in the FQPL Div 2 competition in 2024. Training for our FQPL squad is on every Monday and Wednesday at Prentice Park from 7 pm  sharp to 8.30 pm, starting Monday 8 January (training will be held at Asley Rugby League Football Club (340 Zillmere Road) on Wednesday 3 January from 7 pm while Prentice Park is being top-dressed).
 
 Players are always welcome to come down and trial - send us a message below or via Facebook or contact our head coach Sam via email [Samuel_soccerdude@hotmail.com](Samuel_soccerdude@hotmail.com).
 
