@@ -3,23 +3,21 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" data-bs-theme="light">
   {% include head.html %}
 
-<body>
-
-<!--   {% if jekyll.environment == 'development' %}
+  <body>
+    <!--   {% if jekyll.environment == 'development' %}
   {% include development.html %}
   {% endif %} -->
 
-  {% include navigation.html %}
+    {% include navigation.html %}
 
-  <main class="my-5 py-3">
-  	
-  {{ content }}
-		
-  {% include footer.html %}
-  </main>
-</body>
-
+    <main class="my-5 py-3">
+      <!-- prettier-ignore -->
+      {{ content }} 
+      
+      {% include footer.html %}
+    </main>
+  </body>
 </html>

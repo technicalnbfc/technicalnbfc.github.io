@@ -9,8 +9,10 @@ title: North Brisbane FC Home
   <div class="row h-100">
     <div class="col-md-8">
       <h2 class="pb-4 mb-4 fst-italic border-bottom">Latest News</h2>
+
+      <!-- prettier-ignore -->
       <article class="blog-post">
-        {% for post in site.posts limit:8 %}
+        {% for post in site.posts limit:5 %}
           {% if post.categories contains 'Blog' %}
             <h3><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ post.title }}</a></h3>
 
@@ -24,12 +26,11 @@ title: North Brisbane FC Home
 
     <div class="col-md-4">
       <div class="postition-sticky">
-        <div class="p-4 mb-3 bg-light rounded border"> 
-          <h3 class="text-center">Thank you to our major sponsors</h3>
-            {% include majorsponsors.html folder="mainsponsors"%}
+        <div class="p-4 mb-3 bg-light rounded border">
+          <h3 class="text-center text-dark">Thank you to our major sponsors</h3>
+          {% include majorsponsors.html folder="mainsponsors"%}
         </div>
       </div>
     </div>
   </div>
 </div>
-
