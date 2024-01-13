@@ -1,4 +1,21 @@
 {
   "terminal.explorerKind": "external",
-  "terminal.integrated.defaultProfile.linux": "bash"
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "prettier.requireConfig": true,
+  "cSpell.language": "en, en-AU, en-US",
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    "_config.yml",
+    ".liquidrc"
+  ],
+  "liquid.format.rules": {
+    "json": {
+      "braceAllman": true
+    }
+  }
 }
