@@ -71,3 +71,15 @@
   object-fit: cover;
   transform: scale(1);
 }
+
+.bi {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+  fill: currentcolor
+}
+
+.navbar-brand img {
+  max-height: 50px; /* Adjust this value as needed */
+  width: auto; /* Keeps the aspect ratio intact */
+}
