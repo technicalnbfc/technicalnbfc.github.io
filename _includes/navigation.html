@@ -1,6 +1,12 @@
-{% for entry in site.data.navigation %} {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{%
-endcapture %} {% if fullurl == page.url %} {% assign current_page = fullurl %} {% break %} {% elsif
-page.url contains fullurl %} {% assign current_page = fullurl %} {% endif %} {% endfor %}
+{% for entry in site.data.navigation %} 
+  {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{%endcapture %} 
+  {% if fullurl == page.url %} 
+    {% assign current_page = fullurl %} 
+    {% break %} 
+  {% elsif page.url contains fullurl %} 
+    {% assign current_page = fullurl %} 
+  {% endif %} 
+{% endfor %}
 
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-5 fixed-top">
   <div class="container">

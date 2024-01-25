@@ -7,14 +7,15 @@ layout: compress
   {% include head.html %}
 
 <body>
-<!--   {% if jekyll.environment == 'development' %}
-  {% include development.html %}
-  {% endif %} -->
   
   {% include navigation.html %}
 	
   <main class="my-5 py-5">
 
+  {% if jekyll.environment == 'development' %}
+  {% include development.html %}
+  {% endif %}
+  
   {{ content }}
 		
   {% include footer.html %}
