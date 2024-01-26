@@ -8,12 +8,12 @@ post_lead: Our miniroos summer football program is nearing capacity, and is full
 --- 
 
 Please note that our miniroos summer football program is nearing capacity.
- 
+
 Unfortunately we no longer have capacity in the U8/9 age groups.
- 
+
 We currently have availability in the following age groups:
- 
+
 - U6/7
 - U10/11
 
-For further information, please contact [northbrisbanefc.juniors@gmail.com](northbrisbanefc.juniors@gmail.com) to assist with any queries.
+For further information, please contact [juniors@northbrisbanefc.com.au](juniors@northbrisbanefc.com.au) to assist with any queries.
