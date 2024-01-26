@@ -3,6 +3,9 @@ layout: blog
 title: News and Information
 ---
 
+{% if jekyll.environment == 'development' %}
+{% include development.html %}
+{% endif %}
 
 
 <div class="container">
