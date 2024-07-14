@@ -18,6 +18,10 @@ source "https://rubygems.org"
 # gem "github-pages", group: :jekyll_plugins
 gem "github-pages", "~> 231", group: :jekyll_plugins
 
+
+# If using Ruby 2.7.4 to build
+gem 'rubygems-update', '~> 3.4', '>= 3.4.22'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.8.0"
