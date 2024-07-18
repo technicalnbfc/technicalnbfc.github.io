@@ -91,3 +91,22 @@ $enable-negative-margins: true;
   margin-top: -0.25rem !important;
   margin-bottom: -0.25rem !important;
 }
+
+[data-bs-theme=light] {
+  color-scheme: light;
+  --bs-tertiary-color: rgba(34, 34, 34, 0.5);
+  --bs-tertiary-color-rgb: 34, 34, 34;
+  --bs-tertiary-bg: #f8f9fa;
+  --bs-tertiary-bg-rgb: 248, 249, 250;
+}
+
+[data-bs-theme=dark] {
+  color-scheme: dark;
+  --bs-body-bg: #141618;
+}
+
+
+/* .bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+} */
