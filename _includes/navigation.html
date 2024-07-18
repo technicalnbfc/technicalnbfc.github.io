@@ -17,6 +17,10 @@
     <path
       d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z" />
   </symbol>
+  <symbol id="squadi" viewBox="0 0 375 375">
+    <path 
+      d="M 165.535156 3.503906 C 160.769531 5.410156 144.566406 9.222656 130.269531 12.082031 C 97.863281 19.707031 40.675781 68.316406 21.613281 104.535156 C 3.503906 140.753906 4.457031 222.722656 23.519531 256.082031 C 62.597656 321.847656 161.722656 337.097656 241.785156 289.441406 C 279.910156 267.519531 285.628906 266.566406 282.769531 280.863281 C 275.144531 320.894531 149.332031 352.347656 85.472656 328.519531 C 53.066406 317.082031 68.316406 338.050781 106.441406 358.066406 C 145.519531 378.082031 232.253906 378.082031 271.332031 358.066406 C 344.722656 319.941406 389.519531 231.300781 370.457031 162.675781 C 350.441406 93.097656 312.316406 65.457031 231.300781 65.457031 C 184.597656 65.457031 165.535156 70.222656 137.894531 89.285156 C 117.878906 102.628906 97.863281 111.207031 93.097656 107.394531 C 79.753906 99.769531 91.191406 86.425781 130.269531 66.410156 C 183.644531 39.722656 227.488281 34.957031 278.957031 50.207031 C 318.988281 62.597656 322.800781 62.597656 312.316406 50.207031 C 288.488281 20.660156 196.988281 -7.933594 165.535156 3.503906 Z M 165.535156 3.503906" fill-opacity="1" fill-rule="nonzero"/>
+  </symbol>
 </svg>
 
 <!-- prettier-ignore -->
@@ -32,18 +36,19 @@
 
 <nav class="navbar navbar-expand-lg bg-dark mb-5 fixed-top text-white-50 flex-wrap" data-bs-theme="dark">
   <div class="container">
-    <a class="navbar-brand" href="{{ site.baseurl }}/index.html" aria-label="North Brisbane FC Logo">
-      <img src="{{ site.baseurl }}/assets/favicon/android-chrome-192x192.png" alt="North Brisbane FC">
+    <a class="navbar-brand me-0 me-lg-4 py-0" href="{{ site.baseurl }}/index.html" aria-label="North Brisbane FC Logo">
+      <img src="{{ site.baseurl }}/assets/favicon/android-chrome-192x192.png" class="object-fit-contain" alt="North Brisbane FC">
     </a>  
 
     <div class="vstack text-center flex-grow-0">
       <a class="navbar-brand d-inline-flex flex-shrink-1 mb-0" href="{{ site.baseurl }}/index.html">North Brisbane FC</a>
-      <div class="hstack gap-3 d-flex justify-content-start align-items-end h-25">
-        <a href="https://www.facebook.com/northbrisbanefc/" class="nav-link" target="_blank"><i class="bi bi-facebook"></i></a>
-        <a href="https://www.instagram.com/northbrisbanefootballclub/" class="nav-link" target="_blank"><i class="bi bi-instagram"></i></a>
-        <!-- <a href="https://registration.squadi.com/login" class="nav-link">Squadi</a> -->
-        <a href="https://registration.squadi.com/login" class="nav-link" target="_blank">
-          <img src="{{ site.baseurl }}/assets/Squadi_logo.svg" alt="Squadi Logo" style="width: 16px; height: 16px;">
+      <div class="hstack gap-3 d-flex justify-content-center justify-content-sm-center justify-content-lg-start align-items-end h-25 mt-2 mt-md-1">
+        <a href="https://www.facebook.com/northbrisbanefc/" class="nav-link px-1 px-md-0" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/northbrisbanefootballclub/" class="nav-link px-1 px-md-0" target="_blank"><i class="bi bi-instagram"></i></a>
+        <a href="https://registration.squadi.com/login" class="nav-link px-1 px-md-0" target="_blank">
+          <svg class="bi" width="32" height="32">
+            <use href="#squadi"></use>
+          </svg>
         </a>
       </div>
 

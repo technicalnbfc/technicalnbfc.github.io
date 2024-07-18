@@ -1,3 +1,5 @@
+$enable-negative-margins: true;
+
 .jumbotron {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/jumbotron_06.jpg");
@@ -84,6 +86,8 @@
 }
 
 .navbar-brand img {
-  max-height: 55px; /* Adjust this value as needed */
+  max-height: 65px; /* Adjust this value as needed */
   width: auto; /* Keeps the aspect ratio intact */
+  margin-top: -0.25rem !important;
+  margin-bottom: -0.25rem !important;
 }
