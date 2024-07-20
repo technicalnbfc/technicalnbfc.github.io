@@ -94,15 +94,14 @@ $enable-negative-margins: true;
 
 [data-bs-theme=light] {
   color-scheme: light;
-  --bs-tertiary-color: rgba(34, 34, 34, 0.5);
-  --bs-tertiary-color-rgb: 34, 34, 34;
-  --bs-tertiary-bg: #f8f9fa;
-  --bs-tertiary-bg-rgb: 248, 249, 250;
+  --bs-navbar-brand-color: white;
+  --bs-navbar-breaker-color: var(gray-900);
 }
 
 [data-bs-theme=dark] {
   color-scheme: dark;
-  --bs-body-bg: #141618;
+  --bs-navbar-brand-color: var(gray-600);
+  --bs-navbar-breaker-color: var(gray-400);
 }
 
 
