@@ -14,18 +14,21 @@ layout: compress
   }(document, 'script', 'facebook-jssdk'));
   </script>
 
-<body>
-  
+<header>
   {% include navigation.html %}
-	
-  <main class="my-5 py-5">
+</header>
+
+<body>
+
+  <main>
 
   {{ content }}
  
   {% include form.html %}
-		
-  {% include footer.html %}
 
   </main>
+
+  {% include footer.html %}
+
 </body>
 </html>

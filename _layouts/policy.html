@@ -6,18 +6,21 @@ layout: compress
 <html lang="en">
   {% include head.html %}
 
-<body>
-  
+<header>
   {% include navigation.html %}
-	
-  <main class="my-5 py-5">
+</header>
+
+<body>
+
+  <main>
   
   {{ content }}
 
   {% include form.html %}
+
+  </main>
 		
   {% include footer.html %}
 
-  </main>
 </body>
 </html>
