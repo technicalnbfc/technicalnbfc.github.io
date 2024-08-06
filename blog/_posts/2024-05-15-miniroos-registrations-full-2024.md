@@ -7,8 +7,6 @@ category: Blog
 post_lead: North Brisbane FC's popular 2024 Miniroos program is full, but stay tuned for future programs and opportunities!
 ---
 
-# 2024 Miniroos Soccer Registrations Now Full
-
 Due to overwhelming demand, our 2024 Miniroos program is now at capacity and we are therefore no longer able to accept registrations.
 
 We've been astounded by the immense interest and enthusiasm shown for this year's Miniroos program. The response from the community has been truly remarkable. Unfortunately, as much as we would love to accommodate every eager player, our capacity is finite, and we have now reached that limit.
