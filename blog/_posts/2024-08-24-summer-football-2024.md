@@ -9,12 +9,14 @@ post_lead: North Brisbane FC is excited to once again host our Summer Football p
 
 North Brisbane FC is excited to once again host our Summer Football program in 2024 for senior (male and female) and junior competitions (aged 5-12 years boys and girls) at [Prentice Park, Thistle St Lutwyche](https://www.northbrisbanefc.com.au/about/location).
 
+## Details
+
 ### Summer program dates
 
 **Juniors**
 
 - Every Tuesday afternoon/evening from 1 October to 19 November
-- Timeslows will vary between 5 pm and 6.20 pm.
+- Timeslots will vary between 5 pm and 6.20 pm.
 
 **Senior women**
 
@@ -39,7 +41,7 @@ Summer Football provides players the opportunity to continue playing their favou
 - All individual registrations and payments are to be done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875&competitionId=ac00d408-10b1-4a93-b3f2-4f7b38863ff8).
 - You can pay using your debit or credit card or by making an online transfer.
 
-### Competition format
+## Competition format
 
 - All games will be played with referees
 - Teams are up to 10 players including subs allowed per team per week.
@@ -64,12 +66,12 @@ Summer Football provides players the opportunity to continue playing their favou
 - Games will be played on a round robin basis for the first 8 weeks
 - Teams will play a week of finals to determine their final ladder position
 
-### Further information
+## Further information
 
 #### Juniors
 
-Contact [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au?subject=Summer%20Football)
+Contact [juniors@northbrisbanefc.com.au](mailto:juniors@northbrisbanefc.com.au?subject=Summer%20Football)
 
 #### Seniors
 
-Contact [juniors@northbrisbanefc.com.au](mailto:juniors@northbrisbanefc.com.au?subject=Summer%20Football)
+Contact [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au?subject=Summer%20Football)
