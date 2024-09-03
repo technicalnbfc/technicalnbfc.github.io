@@ -23,7 +23,7 @@ These clinics are perfect for kids of all skill levels, whether they’re just s
  
 ## Register Today!
  
-- [Mixed Registration](https://registration.squadi.com/userRegistration?organisationId=0f742cbf-573b-412e-8006-8af2cdaf3e83&competitionId=2eb7bcf6-eeef-47b4-95c4-a7844ad85966)
+- [Mixed Registration](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875&competitionId=ac594d1e-518c-4082-a99c-478006336d0c)
 - [Girls Only registration](https://registration.squadi.com/userRegistration?organisationId=0f742cbf-573b-412e-8006-8af2cdaf3e83&competitionId=33a3dc7e-bd9a-4f87-95b3-c216058bff03)
 - More information available at [Football Queensland Holiday Clinics](https://footballqueensland.com.au/fqroar-holiday-clinics/)  
 
