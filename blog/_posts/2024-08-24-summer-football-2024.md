@@ -38,7 +38,7 @@ Summer Football provides players the opportunity to continue playing their favou
 ### Registration
 
 - This is a Football Qld sanctioned competition. If a player is not registered with a FQ club in 2024, they will be required to pay an additional social fee of $35 for Insurance cover.
-- All individual registrations and payments are to be done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875&competitionId=ac00d408-10b1-4a93-b3f2-4f7b38863ff8).
+- All individual registrations and payments are to be done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875&competitionId=ac594d1e-518c-4082-a99c-478006336d0c).
 - You can pay using your debit or credit card or by making an online transfer.
 
 ## Competition format
