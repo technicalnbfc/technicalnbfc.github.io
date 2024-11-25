@@ -6,6 +6,8 @@
   <!-- prettier-ignore -->
   {% if site.google_analytics and jekyll.environment == 'production' %} 
     {% include analytics.html %} 
+    {% feed_meta %}
+    {% seo %}
   {% else %}
   <!-- Analytics off -->
   {% endif %} {% include favicon.html %}
@@ -30,7 +32,7 @@
   <!-- prettier-ignore -->
   {% if jekyll.environment == 'development' %}
     <title>DEVELOPMENT {{ page.title }}</title>
-  {% else %} {% seo %}
+  {% else %}
     <title>{{ page.title }}</title>
   {% endif %}
 </head>

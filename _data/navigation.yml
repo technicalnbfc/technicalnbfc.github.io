@@ -21,8 +21,14 @@
       url: /about/history
     - title: Club Colours
       url: /about/colours
-    - title: Governance
-      url: /policies
+#    - title: Governance
+#      url: /policies
+
+- title: Programs
+  url: /programs/
+  sublinks:
+    - title: Mini Roos
+    - url: /programs/miniroos
 
 - title: Referees
   url: /about/referees
