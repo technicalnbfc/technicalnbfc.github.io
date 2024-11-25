@@ -28,7 +28,7 @@
   url: /programs/
   sublinks:
     - title: Mini Roos
-    - url: /programs/miniroos
+      url: /programs/miniroos
 
 - title: Referees
   url: /about/referees
