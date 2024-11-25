@@ -9,7 +9,7 @@ _site/
 .liquidrc
 .eslintrc.json
 workspace.code-workspace
-
+Gemfile.lock
 
 ### VisualStudioCode ###
 .vscode/*
