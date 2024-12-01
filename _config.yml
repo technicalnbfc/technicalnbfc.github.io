@@ -25,6 +25,25 @@ paginate_path: "/blog/page:num/"
 #include:
 #  -
 
+# Collections for (football) program specific pages
+collections:
+  miniroos:
+    output: true
+    permalink: /programs/:collection/:name
+    order:
+      - key-dates.md
+      - registration.md
+
+collections_dir: "/programs"
+
+defaults:
+  - scope: 
+      path: ""
+      type: "miniroos"
+    values:
+      layout: "program-post"
+      category: "Program"
+
 mainsponsorsurl: "/assets/mainsponsors/"
 supportingsponsorsurl: "/assets/supportingsponsors/"
 

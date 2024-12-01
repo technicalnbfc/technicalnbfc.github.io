@@ -24,11 +24,12 @@
 #    - title: Governance
 #      url: /policies
 
-- title: Programs
-  url: /programs/
+- title: Junior Programs
   sublinks:
     - title: Mini Roos
-      url: /programs/miniroos
+      url: /programs/miniroos/about
+
+- title: Senior Programs
 
 - title: Referees
   url: /about/referees
