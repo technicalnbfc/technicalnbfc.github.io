@@ -12,49 +12,23 @@ layout: defaults
 <div class="container">
   <div class="row">
     <div class="col-md-4 pb-4">
-      <h2 class="pb-4 mb-4">Important details</h2>
+      <h2 class="">Important details</h2>
 
       <!-- prettier-ignore -->
       <article class="blog-post">
-        <h3>List them in a list using a for loop</h3>
-
-          {% site.collections %}
-
-          {% assign program_pages = site.collections | where: 'collection', 'miniroos' %}
-
-          <p>{{ program_pages | array_to_sentence_string }}</p>
-
-        <ul>
-          {% for item in program_pages %}
-            <h5>Item</h5>
-            <li><strong>{{ item.title }}</strong></li>
-            <a href="{{ item.url }}">{{ item.url }}</a>
-          {% endfor %}
-          {% for document in program_pages %}
-            <h5>Document</h5>
-            <li><strong>{{ document.title }}</strong></li>
-            <a href="{{ document.url }}">{{ document.url }}</a>
-          {% endfor %}
-            {% for page in program_pages %}
-            <h5>Page</h5>
-            <li><strong>{{ page.title }}</strong></li>
-            <a href="{{ page.url }}">{{ page.url }}</a>
-          {% endfor %}
-        </ul>
-
-        <br>
-        <h3>For program in site.miniroos</h3>
-        {% for program in site.miniroos %}
-            <p>{{ program.title }}  </p><a href="{{ program.url }}">{{ program.url }}</a>
-        {% endfor %}
-
-        <h3>Initial filtering attempt</h3>
-        {% for collection in site.collections limit:8 %}
-          {% if page.collection == 'miniroos' and page.category == 'Program' %}
-            <h3><a href="{{ post.url }}" title="{{ post.title }}" class="mt-5 pt-5 text-reset blog-post-title">{{ page.title }}</a></h3>
-          {% endif %}
-        {% endfor %}
+        {% assign collection_name = page.program %}
+        {% assign program_pages = site[collection_name] %}
         
+        {% for page in program_pages %}
+          {% if page.url contains 'about' %}
+            {%- continue -%}
+          {% endif %}
+            <h4 class="pt-2">
+            <a href="{{ page.url }}" title="{{ page.title }}" class="text-reset blog-post-title">{{ page.title }}</a>
+            </h4>
+        {% endfor %}
+
+       
       </article>
     </div>
     
