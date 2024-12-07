@@ -4,14 +4,19 @@
 ---
 
 // Custom.scss
-// Option A: Include all of Bootstrap
+// Include all of Bootstrap
 // Include any default variable overrides here (though functions won't be available)
 
-// @import "journal/variables";
-@import "bootstrap/bootstrap";
-// @import "journal/bootswatch";
+@import "bootstrap/functions";
 
 // 2. Include any default variable overrides here
 @import "variables";
 
-// 3. Add additional custom code here
+// 3. Include remainder of required Bootstrap stylesheets
+@import "bootstrap/bootstrap";
+
+@import "bootstrap/variables-dark"
+// 4. Include any optional Bootstrap components as you like
+
+
+// 5. Add additional custom code here
