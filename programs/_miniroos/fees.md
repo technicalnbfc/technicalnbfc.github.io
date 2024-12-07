@@ -6,7 +6,7 @@ program: miniroos
 
 Fees for 2025 will be structured as follows:
 
-{: .table}
+{: .table .table-sm}
 
 | Age Group | 2025 Fee |
 |-----------|----------|

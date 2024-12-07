@@ -1,6 +1,14 @@
 ---
 layout: defaults
 ---
+<svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+<symbol id="chevron-expand" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"></path>
+  </symbol>
+</svg>
+
+{% assign collection_name = page.program %}
+{% assign program_pages = site[collection_name] %}
 
 <div class="container">
   <div class="row">
@@ -9,27 +17,18 @@ layout: defaults
   <hr>
 </div>
 
-<div class="container px-4">
-  <div class="row">
-
-    <div class="col-md-9 pt-3">
-      <h2>{{ page.title }}</h2>
-      <p>{{ content }}</p>
-    </div>
-
-    <div class="col-md-3">
-
-      {% assign collection_name = page.program %}
-      {% assign program_pages = site[collection_name] %}
-
-      <!-- prettier-ignore -->
-      <div class="dropdown d-md">
-        <button class="btn btn-link collapsed" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" data-bs-target="#relatedLinks" aria-expanded="false" aria-controls="relatedLinks">
-          " Related links "
-          <svg class="bi d-md-none ms-2" aria-hidden="true"><use xlink:href="#chevron-expand"></use></svg>
-        </button>
-        <strong class="d-none d-md-block h5">Related links</strong>
-        <div class="collpase" id="#relatedLinks">
+<div class="container px-4 bd-gutter bd-layout">
+  <div class="bd-main">
+    
+    <div class="bd-toc text-body-secondary pt-3 my-lg-0 mb-lg-5 px-sm-1">
+      <button class="btn btn-secondary p-md-0 mb-0 mb-md-0 text-decoration-none text-start bd-toc-toggle d-md-none hstack" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents">
+        Related links
+        <svg class="text-end bi d-md-none ms-2" aria-hidden="true"><use href="#chevron-expand"></use></svg>
+      </button>
+      <strong class="d-none d-md-block h5 my-2 ms-3">Related links</strong>
+      <hr class="d-none d-md-block my-2 ms-3">
+      <div class="bd-toc-collapse collapse" id="tocContents">
+        <nav id="TableOfContents">
           {% for item in program_pages %}
             {% if item.url == page.url %}
               {%- continue -%}
@@ -38,11 +37,19 @@ layout: defaults
             <a href="{{ item.url }}" title="{{ item.title }}" class="text-reset blog-post-title">{{ item.title }}</a>
             </h6>
           {% endfor %}
-        </div> 
+        </nav>
+      </div> 
+    </div>
+
+    <div class="bd-intro pt-3 ps-lg-2">
+      <div class="d-md-flex flex-md-row align-items-center justify-content-between">
+      <h2 class="text-align-left">{{ page.title }}</h2>
       </div>
     </div>
       
-
+    <div class="bd-content row-gap-0 ps-lg-2 pe-lg-3">
+      <p>{{ content }}</p>
+    </div>
 
   </div>
 </div>
