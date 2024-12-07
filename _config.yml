@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: "miniroos"
     values:
-      layout: "program-post"
+      layout: "program"
       category: "Program"
 
 mainsponsorsurl: "/assets/mainsponsors/"
