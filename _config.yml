@@ -36,7 +36,7 @@ collections:
     output: true
   miniroos:
     output: true
-    permalink: /programs/:collection/:name
+    permalink: /programs/:collection/:name/
 
 # Using collections_dir causes issues with pagination plugin
 # This means each collection goes into the top level folder until I can find a workaround
@@ -57,7 +57,10 @@ supportingsponsorsurl: "/assets/supportingsponsors/"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - workspace.code-workspace
+  - package-lock.json
+  - package.json
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
