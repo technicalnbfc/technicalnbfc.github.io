@@ -4,7 +4,14 @@ category: Program
 program: miniroos
 ---
 
+##### Season Dates
+
+The MiniRoos season commences in the first week of Term 2 and concludes in the last week of Term 3.
+
+North Brisbane FC's Miniroos are listed in the SEQ Conference - NPQ - FQPL 2 & Metro [Football Queensland calendar](https://footballqueensland.com.au/wp-content/uploads/2024/10/2410002-General-2025-Season-Calendars-Advanced-Metro.pdf).
+
 {: .table}
+
 | KEY ACTIVITY | DATE |
 |--------------|------|
 | Registrations Open – Exiting Players | December 2024 |

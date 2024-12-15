@@ -6,6 +6,13 @@
 - title: News and Info
   url: /blog
 
+- title: Junior Programs
+  sublinks:
+    - title: Mini Roos
+      url: /programs/miniroos/about
+
+# - title: Senior Programs
+
 - title: About
   url: /about/
   sublinks:
@@ -23,13 +30,6 @@
       url: /about/colours
 #    - title: Governance
 #      url: /policies
-
-- title: Junior Programs
-  sublinks:
-    - title: Mini Roos
-      url: /programs/miniroos/about
-
-- title: Senior Programs
 
 - title: Referees
   url: /about/referees
