@@ -61,8 +61,8 @@ exclude:
   - workspace.code-workspace
   - package-lock.json
   - package.json
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
