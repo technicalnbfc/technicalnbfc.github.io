@@ -9,8 +9,6 @@ post_lead: We offer good value for money registration fees in the Football Queen
 
 NBFC offers good value for money registration fees. We can do this because we have a hard-working group of volunteers- groundsmen, cleaners, facilities operations, coaches, managers and sports trainers- who put in a huge amount of volunteer time which in turn saves enormous amounts of money for our club.
 
-However, our volunteer base is not limitless. To reduce volunteer burnout, some of our operations have been out-sourced at a cost to the organisation, either in terms of additional fixed overheads or a reduction in operational revenue.
-
 Our fees for 2025 have been set with these factors in mind.
 
 #### Registration Fees
@@ -26,7 +24,8 @@ Our fees for 2025 have been set with these factors in mind.
 - Metro Junior: U13 Community **$540**
 - Metro Junion: U13 League **$650**
 - Metro Junior: U17 and U18 **$580**
-- **THERE ARE NO OTHER FEES PAYABLE!**
+
+**THERE ARE NO OTHER FEES PAYABLE!**
 
 ###### This covers
 
@@ -66,6 +65,6 @@ For the 5-Year Loyalty Discount the code is Loyalty.
 
 Any questions regarding registration fees and amounts please contact [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au).
 
-##### Refunds
+#### Refunds
 
 Refunds are covered in our [refund policy](/policies/refunds.html).
