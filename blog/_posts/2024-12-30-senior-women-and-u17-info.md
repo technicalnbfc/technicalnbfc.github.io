@@ -35,16 +35,4 @@ Note that spots for all teams are limited so please get in contact with us as so
 
 #### Registration Fees
 
-Fees for 2025 for all senior players are $620 if you pay in full by 14 February, or $650 otherwise.
-
-For under 17s fees are $580.
-
-Discounts apply for full-time tertiary students and 5-year loyalty players ($50).
-
-Fees cover everything and players get a club polo, shorts and socks (playing strip is supplied)
-
-All registrations and payments are to be done via [Squadi](https://registration.squadi.com/login) and Playfootball.
-
 More information about how to register and pay is on our post [2025 Registration Information for Senior and Metro Community Junior players](/blog/2024/12/30/registration-info-seniors-and-juniors.html).
-
-Instalment arrangements are available to players who cannot pay in full at the time of registration.

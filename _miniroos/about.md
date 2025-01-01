@@ -15,47 +15,6 @@ For more information visit [Football Australia](https://www.playfootball.com.au/
 <div class="accordion" id="aboutAccordion">
 
   <div class="accordion-item">
-    <h2 class="accordion-header" id="AgeGroups">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-AgeGroups" aria-expanded="false" aria-controls="collapse-AgeGroups">
-        <strong>Age Groups</strong>
-      </button>
-    </h2>
-    <div id="collapse-AgeGroups" class="accordion-collapse collapse" aria-labelledby="AgeGroups" data-bs-parent="#aboutAccordion">
-      <div class="accordion-body">
-        <p>
-          Age groups are determined by the calendar year of birth. For more information refer to <a href="../age-groups/">MiniRoos age groups</a>.
-        </p>
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="Fees">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-Fees" aria-expanded="false" aria-controls="collapse-Fees">
-        <strong>Fees</strong>
-      </button>
-    </h2>
-    <div id="collapse-Fees" class="accordion-collapse collapse" aria-labelledby="feesHeading" data-bs-parent="#aboutAccordion">
-      <div class="accordion-body">
-        <p>Fees are based on age group and program. For more information on fees and what's included see <a href="../fees/">Mini Roos fees</a>.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="KeyDates">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-KeyDates" aria-expanded="false" aria-controls="collapse-KeyDates">
-        <strong>Key dates</strong>
-      </button>
-    </h2>
-    <div id="collapse-KeyDates" class="accordion-collapse collapse" aria-labelledby="KeyDates" data-bs-parent="#aboutAccordion">
-      <div class="accordion-body">
-        <p>For more detail on key dates see <a href="../miniroos/key-dates.html">Mini Roos key dates</a>.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item">
     <h2 class="accordion-header" id="Training">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-Training" aria-expanded="false" aria-controls="collapse-Training">
         <strong>Training</strong>
@@ -103,7 +62,7 @@ For more information visit [Football Australia](https://www.playfootball.com.au/
     <div id="collapse-Grading" class="accordion-collapse collapse" aria-labelledby="Grading" data-bs-parent="#aboutAccordion">
       <div class="accordion-body">
         <p>
-          At North Brisbane FC we do not undertake trials for MiniRoos age groups, but rather "soft grading" of all players to ensure suitability of competition in accordance with Football Queensland guidelines.
+          At North Brisbane FC we do not undertake trials for MiniRoos age groups, but rather "soft grading" of all players to ensure suitability of competition in accordance with <a href="https://www.google.com/url?q=https://footballqueensland.com.au/wp-content/uploads/2023/12/2024-FQ-Rules-of-Competition-for-Community-Leagues.pdf" target="_blank">Football Queensland guidelines</a>.
         </p>
         <p>
           It is important for the development of our juniors that they are placed in competitions of suitable ability to ensure players are playing at the right level.
