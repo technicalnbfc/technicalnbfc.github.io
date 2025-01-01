@@ -1,26 +1,17 @@
 ---
-layout: compress
+layout: defaults
 ---
 
-<!doctype html>
-<html lang="en">
-  {% include head.html %}
+{% assign collection_name = page.category %}
+{% assign program_pages = site[category] %}
 
-<header>
-  {% include navigation.html %}
-</header>
+<div class="container">
+  <div class="row">
+    <h1 class="text-center">{{ page.program | capitalize}}</h1>
+  </div>
+  <hr>
+</div>
 
-<body>
-
-  <main>
-  
-  {{ content }}
-
-  {% include form.html %}
-
-  </main>
-		
-  {% include footer.html %}
-
-</body>
-</html>
+<div class="container px-4 bd-gutter bd-layout">
+  <p>{{ content }}</p>
+</div>

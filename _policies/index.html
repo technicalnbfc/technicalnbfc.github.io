@@ -1,29 +1,24 @@
 ---
 layout: policy
 title: Policies
+program: policies
 ---
 
-
-
-<div class="container">
-  <div class="row">
-    <h1 class="text-center">{{ page.title }}</h1>
-  </div>
-</div>
+{% assign collection_name = page.program %}
+{% assign program_pages = site[collection_name] %}
 
 <div class="container">
   <div class="row">
     <div class="col">
-      <h2 class="border-top mt-3 pb-1">Documentation</h2>
       <article class="blog-post">
-        {% for post in site.posts %}
-          {% if post.categories contains 'Policy' %}
-            <h5 class="pt-2">
-            <a href="{{ post.url }}" title="{{ post.title }}" class="text-reset blog-post-title">{{ post.title }}</a>
-            </h5>
-            <p>{{ post.date | date_to_string }}</p>
-          {% endif %}
-        {% endfor %}
+      {% for item in program_pages %}
+        {% if item.url == page.url %}
+          {%- continue -%}
+        {% endif %}
+        <h3 class="pt-2">
+        <a href="{{ item.url }}" title="{{ item.title }}" class="text-reset blog-post-title">{{ item.title }}</a>
+        </h3>
+      {% endfor %}
       </article>
     </div>
   </div>

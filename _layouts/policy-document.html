@@ -1,0 +1,24 @@
+---
+layout: defaults
+---
+
+<div class="container">
+  <div class="row">
+    <h1 class="text-center">{{ page.program | capitalize}}</h1>
+  </div>
+  <hr>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <article class="blog-post">
+        <h2 class="text-left blog-post-title lh-base mb-0">{{ page.title }}</h2>
+          <p class="blog-postmeta fw-light pb-1">Last updated: {{ page.updated | date_to_string }}</p>
+          <p>
+            {{ content }}
+          </p>
+      </article>
+    </div>
+  </div>
+</div>
