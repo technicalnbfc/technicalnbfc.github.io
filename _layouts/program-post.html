@@ -1,0 +1,40 @@
+---
+layout: defaults
+---
+
+<div class="container">
+  <div class="row">
+    <h1 class="text-center">{{ page.title }}</h1>
+  </div>
+  <hr>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4 pb-4">
+      <h2 class="">Quick links</h2>
+
+      <!-- prettier-ignore -->
+      <article class="blog-post">
+        {% assign collection_name = page.program %}
+        {% assign program_pages = site[collection_name] %}
+        
+        {% for page in program_pages %}
+          {% if entry.url == current_page %}
+            {%- continue -%}
+          {% endif %}
+            <h4 class="pt-2">
+            <a href="{{ page.url }}" title="{{ page.title }}" class="text-reset blog-post-title">{{ page.title }}</a>
+            </h4>
+        {% endfor %}
+
+       
+      </article>
+    </div>
+    
+    <div class="col-md-8">
+      <h2>{{ page.title }}</h2>
+      <p>{{ content }}</p>
+    </div>
+  </div>
+</div>

@@ -19,25 +19,52 @@ google_analytics: G-T24MFFJCSC
 markdown: kramdown
 #theme: minima
 
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
 paginate: 6
 paginate_path: "/blog/page:num/"
 
 #include:
 #  -
 
+# Collections for (football) program specific pages
+collections:
+  blog:
+    output: true
+  policies:
+    output: true
+  miniroos:
+    output: true
+    permalink: /programs/:collection/:name/
+
+# Using collections_dir causes issues with pagination plugin
+# This means each collection goes into the top level folder until I can find a workaround
+
+#collections_dir: "/pages"
+
+defaults:
+  - scope: 
+      path: ""
+      type: "miniroos"
+    values:
+      layout: "program"
+      category: "Program"
+
 mainsponsorsurl: "/assets/mainsponsors/"
 supportingsponsorsurl: "/assets/supportingsponsors/"
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - workspace.code-workspace
+  - package-lock.json
+  - package.json
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
