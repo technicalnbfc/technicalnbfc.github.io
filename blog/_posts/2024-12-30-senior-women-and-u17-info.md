@@ -25,9 +25,9 @@ Training/trials for our Metro div players and our Under 17s commences on Wednesd
 
 Anyone interested in playing Metro Div 1 please contact Maurice via email at [duevespe@optusnet.com.au](mailto:duevespe@optusnet.com.au).
 
-For other Metro Community Senior teams, please contact Teghan via email at [teghanrebeccaadams@outlook.com](teghanrebeccaadams@outlook.com).
+For other Metro Community Senior teams, please contact Teghan via email at [teghanrebeccaadams@outlook.com](mailto:teghanrebeccaadams@outlook.com).
 
-For the Under 17 team, contact Geoff via email at [geoff@sharpefinancialsolutions.com.au](geoff@sharpefinancialsolutions.com.au).
+For the Under 17 team, contact Geoff via email at [geoff@sharpefinancialsolutions.com.au](mailto:geoff@sharpefinancialsolutions.com.au).
 
 Alternatively  - send us a message using the form below or via Facebook.
 

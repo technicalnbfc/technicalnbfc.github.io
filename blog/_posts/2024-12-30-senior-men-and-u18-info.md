@@ -31,7 +31,7 @@ We will again be fielding an Over 35 team in the Over 35s competition. Training 
 
 We will again be fielding an Under 18 team in FQ Metro Community Junior Competition (suitable for players who turn 17 or 18 in 2025). Training for this team will also take every Wednesday from 7 pm to 8.30 pm from 15 January at Kedron AFL, Sixth Avenue Kedron.
 
-Any interested players- send us a message below or contact Michael  via email at [cearnsm1@nigpond.com](mailto:cearnsm1@nigpond.com)
+Any interested players- send us a message below or contact Michael  via email at [cearnsm1@bigpond.com](mailto:cearnsm1@bigpond.com)
 
 #### Registration Fees
 
