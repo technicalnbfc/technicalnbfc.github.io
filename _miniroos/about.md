@@ -87,7 +87,7 @@ For more information visit [Football Australia](https://www.playfootball.com.au/
           Parents, carers, or guardians can apply for a Fair Play voucher valued up to $200 for their child, which can be used towards sport and active recreation membership, registration, or participation fees with registered activity providers.  
         </p>
         <p>
-          More information about how to apply for Fair Play vouchers can be found on the <a href="https://www.qld.gov.au/recreation/sports/funding/fairplay" target="_blank">Queensland Government Sport and Recreation website</a>. Vouchers are offered in various rounds throughout the year, and you are limited to 1 voucher per child per calendar year. Once you have registered, email this the voucher to the club at <a href="mailto:treasurer@northbrisbanefc.com.au?subject=Fair play voucher enquiry" target="_blank">treasurer@northbrisbanefc.com.au</a>.
+          More information about how to apply for Fair Play vouchers can be found on the <a href="https://www.qld.gov.au/recreation/sports/funding/fairplay" target="_blank">Queensland Government Sport and Recreation website</a>. Vouchers are offered in various rounds throughout the year, and you are limited to 1 voucher per child per calendar year.
         </p>
       </div>
     </div>

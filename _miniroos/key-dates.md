@@ -14,10 +14,9 @@ North Brisbane FC's Miniroos are listed in the SEQ Conference - NPQ - FQPL 2 & M
 
 | KEY ACTIVITY | DATE |
 | :---- | :---- |
-| Registrations Open – Current Players | Early January 2025 |
-| Registrations Open – New Players | 20 January 2025 |
-| Come & Try / Grading / Team Placement (U8-U10) | Tuesday 4 & 11 February 2025 |
-| Come & Try / Grading / Team Placement (U11-U13) | Thursday 6 & 13 February 2025 |
+| Registrations Open | Early January 2025 |
+| Come & Try / Grading / Team Placement (U8-U10) | Tuesday 4, 11, 18, 25 February 2025 |
+| Come & Try / Grading / Team Placement (U11-U13) | Thursday 6, 13, 20, 27 February 2025 |
 | Come & Try / Team Placement (U5-U7) | Commencing March 2025 \- Exact Date TBA |
 | Training Commencement | Commencing March 2025 |
 | Fixtures Commence | Saturday 26 April 2025 |

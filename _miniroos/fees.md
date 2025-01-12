@@ -10,12 +10,11 @@ Fees for 2025 will be structured as follows:
 
 | Age Group | 2025 Fee |
 |-----------|----------|
-| Squirts 3-5 | $300.00 |
 | Miniroos Community 5-7 | $420.00 |
 | Miniroos Community 8-11 | $450.00 |
 | Miniroos Community U12 | $460.00 |
-| Miniroos Development U8-11 | $530.00 |
-| Miniroos Development U12 | $560.00 |
+| Miniroos Kangaroo Competition U8-11 | $530.00 |
+| Miniroos Kangaroo Competition U12 | $560.00 |
 
 ##### Each players registration fee includes
 

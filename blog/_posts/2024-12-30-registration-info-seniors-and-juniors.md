@@ -43,7 +43,7 @@ All registrations and payments are to be done online via [Squadi](https://regist
 
 [Squadi](https://registration.squadi.com/login) is used to pay your club fees and Football Queensland fees. You must create a profile in Squadi before you can register.
 
-[Playfootball](<https://www.playfootball.com.au/>) is used to pay your [fee to Football Australia](https://footballqueensland.com.au/wp-content/uploads/2024/11/49-24-FQ-Memo-2025-National-Registration-Fees.pdf) ($35 for adults and $15 for players under 18). Once you complete your registration in Squadi, a link to Playfootball will appear. Click on the link and proceed to register and pay via Playfootball.
+[Playfootball](https://www.playfootball.com.au/) is used to pay your [fee to Football Australia](https://footballqueensland.com.au/wp-content/uploads/2024/11/49-24-FQ-Memo-2025-National-Registration-Fees.pdf) ($35 for adults and $15 for players under 18). Once you complete your registration in Squadi, a link to Playfootball will appear. Click on the link and proceed to register and pay via Playfootball.
 
 Your registration cannot be activated until you pay the fees applicable in both Squadi **and** Playfootball.
 
