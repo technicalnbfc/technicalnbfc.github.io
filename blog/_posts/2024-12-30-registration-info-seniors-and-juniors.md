@@ -22,7 +22,7 @@ Our fees for 2025 have been set with these factors in mind.
 ###### Juniors
 
 - Metro Junior: U13 Community **$540**
-- Metro Junion: U13 League **$650**
+- Metro Junior: U13 League **$650**
 - Metro Junior: U17 and U18 **$580**
 
 **THERE ARE NO OTHER FEES PAYABLE!**
@@ -45,6 +45,10 @@ All registrations and payments are to be done online via [Squadi](https://regist
 
 [Playfootball](https://www.playfootball.com.au/) is used to pay your [fee to Football Australia](https://footballqueensland.com.au/wp-content/uploads/2024/11/49-24-FQ-Memo-2025-National-Registration-Fees.pdf) ($35 for adults and $15 for players under 18). Once you complete your registration in Squadi, a link to Playfootball will appear. Click on the link and proceed to register and pay via Playfootball.
 
+{: .alert .alert-primary .col-lg-6 }
+Due to onboarding issues with Playfootball, no link is currently visible in Squadi.  
+Please complete just the Squadi part of your registration until this changes.
+
 Your registration cannot be activated until you pay the fees applicable in both Squadi **and** Playfootball.
 
 The club is North Brisbane FC and  you **do not** need to enter your FFA ID.
@@ -55,7 +59,7 @@ For those with financial difficulties, Squadi offers an instalment plan. There a
 
 #### Discounts
 
-When you go to register and pay, Squadi will ask you to enter any Discount Code applicable.
+When you go to register and pay, Squadi will ask you to enter any Discount Code applicable (discounts only apply to senior players).
 
 For the Early Bird Discount ($30), the code is Early Bird (applicable for payments in full made on or before 14 February)
 
