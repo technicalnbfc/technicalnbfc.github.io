@@ -2,7 +2,7 @@
 ---
 published: true
 layout: posts
-title: Kick off the fun! MiniRoos 'Come & Try' Days this February!
+title: Kick off the fun with MiniRoos Come & Try Days this February
 tags: ["Registrations", "Juniors", "MiniRoos"]
 category: Blog
 post_lead: Is your child ready to kick off their soccer journey? Our MiniRoos Come & Try days are the perfect way to get started - fun, friends and football await!
