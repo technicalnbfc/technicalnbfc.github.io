@@ -27,8 +27,6 @@ For more help read our [detailed instructions on how to register](/programs/mini
 
 A $50 discount is available for each successive sibling.
 
-A $30 discount is available for early bird payments made in full on or before 14 February 2025. Use code Early Bird.
-
 #### Helpful links
 
 - [Fee inclusions](/blog/2024/12/30/registration-info-seniors-and-juniors)
