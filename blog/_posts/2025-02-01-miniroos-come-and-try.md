@@ -13,10 +13,10 @@ These sessions are designed for all ages, giving kids a fun and supportive envir
 
 ###### Details
 
-**U8-11: **
+**U8-11:**
 Tuesday February 4, 11, 18, 25  
 
-**U10-13: **
+**U10-13:**
 Thursday February 6, 13, 20, 27  
 
 All sessions commence at 5pm at Prentice Park, Lutwyche.
@@ -25,6 +25,6 @@ These sessions are completely open to new and returning players, so if your chil
 
 No registration is required - just come along, have a go, and see why soccer is such a fantastic sport for kids of all skill levels.
 
-For more information, contact us at [mailto:juniors@northbrisbanefc.com.au](juniors@northbrisbanefc.com.au) or read [about miniroos](https://www.northbrisbanefc.com.au/programs/miniroos/about/).
+For more information, contact us at [juniors@northbrisbanefc.com.au](mailto:juniors@northbrisbanefc.com.au) or read about [our Mini Roos program](https://www.northbrisbanefc.com.au/programs/miniroos/about/).
 
 
