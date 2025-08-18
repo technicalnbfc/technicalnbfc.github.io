@@ -29,7 +29,7 @@ Senior Men:
 
 All players are welcome. If a player is not registered with a FQ club in 2025, they will be required to pay an additional social fee of $35 for Insurance cover.
 
-All individual registrations and payments are **done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875)**.
+All individual registrations and payments are **done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875&competitionId=b03c4db5-9e72-4663-b2ee-113702b91613)**.
 
 ### Fees
 - $90 per player for senior men and women
