@@ -13,15 +13,15 @@ Summer Football provides players the opportunity to continue playing their favou
 ## Program dates
 
 Juniors:
-- Tuesday afternoon/evening from 8 October to 26 November
+- Tuesday afternoon/evening from 7 October to 25 November
 - Timeslots vary between 5 pm and 5.50 pm.
 
 Senior Women and Mixed:
-- Monday evening from 7 October to 25 November
+- Monday evening from 6 October to 24 November
 - Timeslots vary from 6.25 pm to 8.05 pm
 
 Senior Men:
-- Wednesday evening 9 October to 27 November.
+- Wednesday evening 8 October to 26 November.
 - Timeslots vary from 6.25 pm to 8.05 pm
 
 
@@ -67,3 +67,4 @@ Juniors contact is [juniors@northbrisbanefc.com.au](mailto:juniors@northbrisbane
 
 Seniors contact is [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au?subject=Summer%20football)
 
+_This post was updated on 4 September to correct the program dates._
