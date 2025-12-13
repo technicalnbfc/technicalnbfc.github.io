@@ -9,10 +9,13 @@
 
 @import "bootstrap/functions";
 
-// 2. Include any default variable overrides here
+// 2. Include Bootstrap variables so we can reference them
+@import "bootstrap/variables";
+
+// 3. Include any custom variable overrides and styles
 @import "variables";
 
-// 3. Include remainder of required Bootstrap stylesheets
+// 4. Include remainder of required Bootstrap stylesheets
 @import "bootstrap/bootstrap";
 
 @import "bootstrap/reboot";

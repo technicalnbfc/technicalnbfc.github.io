@@ -3,6 +3,13 @@ main {
   padding-bottom: 20px;
 }
 
+// Fix navbar overlap when nav items wrap at medium-large breakpoint
+@media (min-width: 992px) and (max-width: 1199px) {
+  main {
+    padding-top: 150px;
+  }
+}
+
 
 .jumbotron {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -99,13 +106,13 @@ main {
 [data-bs-theme=light] {
   color-scheme: light;
   --bs-navbar-brand-color: white;
-  --bs-navbar-breaker-color: var(gray-900);
+  --bs-navbar-breaker-color: #{$gray-900};
 }
 
 [data-bs-theme=dark] {
   color-scheme: dark;
-  --bs-navbar-brand-color: var(gray-600);
-  --bs-navbar-breaker-color: var(gray-400);
+  --bs-navbar-brand-color: #{$gray-600};
+  --bs-navbar-breaker-color: #{$gray-400};
 }
 
 
@@ -113,8 +120,7 @@ main {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
 } */
-
-$accordion-button-active-bg: var(gray-600);
+$accordion-button-active-bg: #{$gray-400};
 
 .bd-gutter {
     --bs-gutter-x: 3rem
