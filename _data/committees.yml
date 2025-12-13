@@ -1,73 +1,68 @@
 last_updated: 2026
 
-roles:
-  - row: 1
-    positions:
-      - title: "President"
-        members:
-          - name: "Kevin O'Brien"
-            phone: "0458 275 982"
-            email: "president@northbrisbanefc.com.au"
+positions:
+  - title: "President"
+    members:
+      - name: "Kevin O'Brien"
+        phone: "0458 275 982"
+        email: "president@northbrisbanefc.com.au"
 
-      - title: "Secretary"
-        members:
-          - name: "Rebecca Robinson"
-            phone: "0428 410 111"
-            email: "secretary@northbrisbanefc.com.au"
+  - title: "Secretary"
+    members:
+      - name: "Rebecca Robinson"
+        phone: "0428 410 111"
+        email: "secretary@northbrisbanefc.com.au"
 
-      - title: "Treasurer and Sponsorships"
-        members:
-          - name: "Greg Vitulano"
-            phone: "0437 320 107"
-            email: "treasurer@northbrisbanefc.com.au"
-  - row: 2
-    positions:
-      - title: "Grounds and Facilities"
-        members:
-          - name: "Kerry Harmon"
-            phone: "0400 531 803"
-            email: "kharmon@optusnet.com.au"
+  - title: "Treasurer and Sponsorships"
+    members:
+      - name: "Greg Vitulano"
+        phone: "0437 320 107"
+        email: "treasurer@northbrisbanefc.com.au"
 
-      - title: "Equipment Officer"
-        members:
-          - name: "Dan Kenwood"
-            email: "dan.kenwood@northbrisbanefc.com.au"
+  - title: "Grounds and Facilities"
+    members:
+      - name: "Kerry Harmon"
+        phone: "0400 531 803"
+        email: "kharmon@optusnet.com.au"
 
-      - title: "Mini Roos (U5-U12)"
-        members:
-          - name: "Jess Ryan"
-            email: "juniors@northbrisbanefc.com.au"
-  - row: 3
-    positions:
-      - title: "Senior Womens Football"
-        members:
-          - name: "Samuel Rodrigo Silva-Cabeza - FQPL"
-            phone: "0401 092 663"
-            email: "fqplwomen@northbrisbanefc.com.au"
-          - name: "Angus Galati - Metro Divisions"
-            email: "metrowomen@northbrisbanefc.com.au"
+  - title: "Equipment Officer"
+    members:
+      - name: "Dan Kenwood"
+        email: "dan.kenwood@northbrisbanefc.com.au"
 
-      - title: "Senior Mens Football"
-        members:
-          - name: "Anj Sandhar - FQPL"
-            phone: "0422 330 430"
-            email: "fqplmen@northbrisbanefc.com.au"
-          - name: "Rebecca Robinson - Metro Divisions"
-            email: "metromen@northbrisbanefc.com.au"
+  - title: "Mini Roos (U5-U12)"
+    members:
+      - name: "Jess Ryan"
+        email: "juniors@northbrisbanefc.com.au"
 
-      - title: "Metro Juniors (U13-U18)"
-        members:
-          - name: "Gregory Vitulano"
-            phone: "0437 320 107"
-            email: "treasurer@northbrisbanefc.com.au"
-  - row: 4
-    positions:
-      - title: "Administration and Social Media"
-        members:
-          - name: "Rebecca Robinson"
-            email: "secretary@northbrisbanefc.com.au"
+  - title: "Senior Womens Football"
+    members:
+      - name: "Samuel Rodrigo Silva-Cabeza - FQPL"
+        phone: "0401 092 663"
+        email: "fqplwomen@northbrisbanefc.com.au"
+      - name: "Angus Galati - Metro Divisions"
+        email: "metrowomen@northbrisbanefc.com.au"
 
-      - title: "Merchandise"
-        members:
-          - name: "Jess Ryan"
-            email: "juniors@northbrisbanefc.com.au"
+  - title: "Senior Mens Football"
+    members:
+      - name: "Anj Sandhar - FQPL"
+        phone: "0422 330 430"
+        email: "fqplmen@northbrisbanefc.com.au"
+      - name: "Rebecca Robinson - Metro Divisions"
+        email: "metromen@northbrisbanefc.com.au"
+
+  - title: "Metro Juniors (U13-U18)"
+    members:
+      - name: "Gregory Vitulano"
+        phone: "0437 320 107"
+        email: "treasurer@northbrisbanefc.com.au"
+
+  - title: "Administration and Social Media"
+    members:
+      - name: "Rebecca Robinson"
+        email: "secretary@northbrisbanefc.com.au"
+
+  - title: "Merchandise"
+    members:
+      - name: "Jess Ryan"
+        email: "juniors@northbrisbanefc.com.au"

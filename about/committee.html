@@ -13,22 +13,20 @@ title: Committee
   <hr />
 
   <div class="row align-items-start">
-    {% for row in site.data.committees.roles %}
-      {% for position in row.positions %}
-      <div class="col-md-6 col-lg-4 mb-3">
-        <h4>{{ position.title }}:</h4>
-        {% for member in position.members %}
-          <p class="mb-0">{{ member.name }}</p>
-          {% if member.phone %}
-            <p class="mb-0">{{ member.phone }}</p>
-          {% else %}
-            <p class="mb-0"></p>
-          {% endif %}
-          <p class="mb-0">{{ member.email }}</p>
-          <br />
-        {% endfor %}
-      </div>
+    {% for position in site.data.committees.positions %}
+    <div class="col-md-6 col-lg-4 mb-3">
+      <h4>{{ position.title }}:</h4>
+      {% for member in position.members %}
+        <p class="mb-0">{{ member.name }}</p>
+        {% if member.phone %}
+          <p class="mb-0">{{ member.phone }}</p>
+        {% else %}
+          <p class="mb-0"></p>
+        {% endif %}
+        <p class="mb-0">{{ member.email }}</p>
+        <br />
       {% endfor %}
+    </div>
     {% endfor %}
   </div>
 </div>
