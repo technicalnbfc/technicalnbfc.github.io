@@ -20,7 +20,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 
 
 # If using Ruby 2.7.4 to build
-gem 'rubygems-update', '~> 3.4', '>= 3.4.22'
+# gem 'rubygems-update', '~> 3.4', '>= 3.4.22'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

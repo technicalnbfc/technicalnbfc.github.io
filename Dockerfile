@@ -5,7 +5,7 @@ FROM ruby:3.3-bookworm
 # The 'build-essential' package includes tools like 'gcc' and 'make'
 # which are required to compile some of the gems.
 # 'zlib1g-dev' and 'libxml2-dev' are specifically needed for gems like 'nokogiri'.
-RUN set -eux \
+RUN set -eux; \
     apt-get update -qq && \
     apt-get install -y --no-install-recommends \
     libxml2-dev \
@@ -31,12 +31,12 @@ gem install tzinfo-data --no-document
 # Expose port 4000, which Jekyll's server uses by default.
 EXPOSE 4000
 
+
 # Define the default command to run when the container starts.
 # 'bundle exec jekyll serve' runs the Jekyll server.
 # '--livereload' automatically reloads your browser when files change.
 # '--host 0.0.0.0' makes the server accessible from outside the container,
 # which is necessary for you to view the site from your host machine.
 ENTRYPOINT ["bundle", "exec", "jekyll"]
-
-CMD ["serve", "--host", "0.0.0.0"]
+CMD ["serve", "--host", "::"] 
 
