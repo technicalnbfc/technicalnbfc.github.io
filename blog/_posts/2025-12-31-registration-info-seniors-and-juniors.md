@@ -20,8 +20,8 @@ NBFC offers good value for money registration fees. We can do this because we ha
 ###### Metro Juniors
 
 - U 13 and U 14 Community $603
-- U 13 $743
-- U 14 $753
+- U 13 Metro Junior League $743
+- U 14 Metro Junior League $753
 - U 17 Women $663  
 
 **THERE ARE NO OTHER FEES PAYABLE!**
