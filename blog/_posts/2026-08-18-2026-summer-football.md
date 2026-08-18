@@ -1,0 +1,72 @@
+---
+published: true
+layout: posts
+title: Play on Football 2026 - Summer Football
+tags: ["Seniors", "Registrations", “Juniors”]
+category: Blog
+post_lead: North Brisbane FC is excited to once again host our Summer Football program as part of the FQ Play On brand in 2026. Summer football will be for juniors and senior male, female and mixed competitions all at Prentice Park, Thistle St Lutwyche.
+---
+
+
+Summer Football provides players the opportunity to continue playing their favourite sport in a competitive but social format during the spring and summer months.
+
+## Program dates
+
+Juniors:
+- Tuesday afternoon/evening from 6 October to 24 November
+- Timeslots vary between 5 pm and 5.50 pm.
+
+Senior Women and Mixed:
+- Monday evening from 5 October to 23 November
+- Timeslots vary from 6.30 pm to 8.10 pm
+
+Senior Men:
+- Wednesday evening from 7 October to 25 November.
+- Timeslots vary from 6.30 pm to 8.10 pm
+
+
+## Registration
+
+All players are welcome, whether registered with a Football Qld club or not.
+
+All individual registrations and payments are **done online using [Squadi](https://registration.squadi.com/userRegistration?organisationId=358efd06-2dcb-4ae4-81a6-2c1d791dd875)**.
+
+### Club Fees
+- $88 per player for senior men, women and mixed
+- $80 per player for Juniors (aged 5-15 years)
+- All players are required to pay a Social fee of $35 to FQ in addition to the club fees 
+
+### Competition format
+
+- All games played with referees
+- 6 a side on the field; teams are up to 9 players including subs (per team per week)
+- Each team will have a team leader who will act as the contact point for the team regarding match times etc.
+
+As registrations are received, we will work to place players into a team if they don’t already have one.
+All individuals will be allocated to a team and have your fixtures available via Squadi
+
+### Juniors
+
+- 8 games in total over 8 weeks with no finals or points tables kept
+- U6 and U7s, teams are 4 a side
+- U8 and above 6 a side (inc keeper)
+- Games are 2 x 20 minute halves
+- Teams will be split into age groups and levels of ability
+
+### Seniors (Inc Mixed)
+
+- 8 games in total
+- Minimum of 2 females on the field at all times in Mixed Competition
+- Games are 2 x 20 minute halves
+- Teams will likely be split into divisions to ensure fair competition
+- Games will be played on a round robin basis for the first 7 weeks
+- Teams will play a week of finals in round 8 to determine their final ladder position
+
+## Further information
+
+Juniors contact is [juniors@northbrisbanefc.com.au](mailto:juniors@northbrisbanefc.com.au?subject=Summer%20football)
+
+Seniors contact is [treasurer@northbrisbanefc.com.au](mailto:treasurer@northbrisbanefc.com.au?subject=Summer%20football)
+
+
+
