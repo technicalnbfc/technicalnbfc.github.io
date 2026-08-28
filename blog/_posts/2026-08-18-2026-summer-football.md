@@ -14,7 +14,7 @@ Summer Football provides players the opportunity to continue playing their favou
 
 Juniors:
 - Tuesday afternoon/evening from 6 October to 24 November
-- Timeslots vary between 5 pm and 5.50 pm.
+- Timeslots vary between 5:15 pm and 6:05 pm.
 
 Senior Women and Mixed:
 - Monday evening from 5 October to 23 November
